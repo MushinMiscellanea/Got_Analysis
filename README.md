@@ -2,6 +2,8 @@
 
 My final project for LIS 4761 Data Mining. I used NLTK through Orange Data mining to generate sentiment scores for all Game of Thrones (T.V.) dialogue. I then filtered for lines regarding main characters to find the general sentiment of people from the known world toward Jon, Cersei, and Dany.
 
+#### I am sorry my code is so terribly undocumented. I will be completing this in the coming months, and it will be marvelous 
+
 ## Start
 
 The analysis was done in a stand alone software called Orange Data Mining.
@@ -29,6 +31,7 @@ pipenv install jupyter pandas matplotlib numpy seaborn
 ## Do you like?
 
 ![rundown gif](/GoTAnalysis/img/workflow.gif)
+
 
 
 
