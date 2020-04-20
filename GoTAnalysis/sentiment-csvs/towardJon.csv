@@ -1,0 +1,481 @@
+Release Date,Episode Title,pos,neg,neu,compound,Season,Episode,Name,Sentence
+17/04/2011,Winter is Coming,0.0,0.0,1.0,0.0,1.0,1.0,bran stark,Jon said he was a deserter.
+17/04/2011,Winter is Coming,0.232,0.359,0.409,-0.4215,1.0,1.0,benjen,"Well, you're always welcome on the wall. No bastard was ever refused a seat there."
+17/04/2011,Winter is Coming,0.0,0.0,1.0,0.0,1.0,1.0,benjen,Jon…
+17/04/2011,Winter is Coming,0.268,0.223,0.51,0.1779,1.0,1.0,tyrion lannister,"My greatest accomplishment. You – you're Ned Stark's bastard, aren't you?"
+17/04/2011,Winter is Coming,0.0,0.538,0.462,-0.7184,1.0,1.0,tyrion lannister,"Did I offend you? Sorry. You are the bastard, though."
+17/04/2011,Winter is Coming,0.033,0.244,0.723,-0.8967,1.0,1.0,tyrion lannister,"And Lady Stark is not your mother. Making you a bastard. Let me give you some advice, bastard. Never forget what you are. The rest of the world will not. Wear it like armor. Then it can never be used to hurt you."
+17/04/2011,Winter is Coming,0.0,0.364,0.636,-0.6124,1.0,1.0,tyrion lannister,All dwarves are bastards in their fathers' eyes.
+24/04/2011,The Kingsroad,0.098,0.194,0.708,-0.3468,1.0,2.0,robert baratheon,Bessie! Thank the gods for Bessie and her tits. Yours was... Aleena? No. You told me once. Meryl? Your bastardo s mother?
+24/04/2011,The Kingsroad,0.132,0.117,0.751,-0.3757,1.0,2.0,tyrion lannister,"Yes, until my brother killed him. Life is full of these little ironies. My sister married the new King and my repulsive nephew will be King after him. I must do my part for the honor of my house, wouldn't you agree? But how? Well, my brother has his sword and I have my mind. And a mind needs books like a sword needs a whetstone. That's why I read so much. And you? What's your story, bastard?"
+24/04/2011,The Kingsroad,0.093,0.148,0.759,-0.3182,1.0,2.0,tyrion lannister,"A bastard boy with nothing to inherit, off to join the ancient order of the Night's Watch, alongside his valiant brothers-in-arms."
+01/05/2011,Lord Snow,0.12,0.177,0.703,-0.5423,1.0,3.0,alliser thorne,"If that were a real sword, you'd be dead. Lord Snow here grew up in a castle spitting down on the likes of you. Pyp. Do you think Ned Stark's bastard bleeds like the rest of us?"
+01/05/2011,Lord Snow,0.12,0.177,0.703,-0.5423,1.0,3.0,alliser thorne,"If that were a real sword, you'd be dead. Lord Snow here grew up in a castle spitting down on the likes of you. Pyp. Do you think Ned Stark's bastard bleeds like the rest of us?"
+01/05/2011,Lord Snow,0.0,0.687,0.313,-0.7644,1.0,3.0,grenn,"You broke my nose, bastard!"
+01/05/2011,Lord Snow,0.0,0.0,1.0,0.0,1.0,3.0,grenn,"We'll talk later, Lord Snow."
+01/05/2011,Lord Snow,0.239,0.0,0.761,0.2235,1.0,3.0,benjen stark,"You're not going. You're no ranger, Jon."
+08/05/2011,"Cripples, Bastards and Broken Things",0.0,0.415,0.585,-0.7964,1.0,4.0,tyrion lannister,"I have a tender spot in my heart for cripples, bastards and broken things."
+08/05/2011,"Cripples, Bastards and Broken Things",0.23,0.059,0.711,0.8779,1.0,4.0,alliser thorne,"Looks like the bastardo s in love. All right then, lord Snow, you wish to defend your lady love, let's make it an exercise. You two. Three of you ought to be sufficient to make lady piggy squeal. All you've got to do is get past the bastard."
+08/05/2011,"Cripples, Bastards and Broken Things",0.23,0.059,0.711,0.8779,1.0,4.0,alliser thorne,"Looks like the bastardo s in love. All right then, lord Snow, you wish to defend your lady love, let's make it an exercise. You two. Three of you ought to be sufficient to make lady piggy squeal. All you've got to do is get past the bastard."
+08/05/2011,"Cripples, Bastards and Broken Things",0.077,0.206,0.716,-0.7738,1.0,4.0,grand maester pycelle,"Lord Arryn? His death was a great sadness to all of us. I took personal charge of his care, but I could not save him. His sickness struck him very hard and very fast. I saw him in my chambers just the night before he passed. Lord Jon often came to me for counsel."
+08/05/2011,"Cripples, Bastards and Broken Things",0.0,0.0,1.0,0.0,1.0,4.0,eddard stark,Jon's death...
+08/05/2011,"Cripples, Bastards and Broken Things",0.0,0.538,0.462,-0.5423,1.0,4.0,eddard stark,King Robert's bastard son.
+08/05/2011,"Cripples, Bastards and Broken Things",0.188,0.0,0.812,0.7579,1.0,4.0,rast,"You are in love, Lord Snow. You girls can do as you please. But if Thorne puts me up against Lady Piggy, I'm gonna slice me off a side of bacon."
+08/05/2011,"Cripples, Bastards and Broken Things",0.0,0.0,1.0,0.0,1.0,4.0,sam tarly,Jon Snow?
+08/05/2011,"Cripples, Bastards and Broken Things",0.0,0.0,1.0,0.0,1.0,4.0,sam tarly,Jon Snow?
+08/05/2011,"Cripples, Bastards and Broken Things",0.0,0.412,0.588,-0.5423,1.0,4.0,sam tarly,Because... You're a bastard from the north.
+08/05/2011,"Cripples, Bastards and Broken Things",0.252,0.0,0.748,0.7501,1.0,4.0,catelyn stark,The red stallion was always a welcome sight at Riverrun. My father counts Jonas Bracken amongst his oldest and most loyal bannermen.
+15/05/2011,The Wolf and the Lion,0.339,0.166,0.495,0.5994,1.0,5.0,eddard stark,Jon was a man of peace. He was Hand for 17 years -- 17 good years. Why kill him?
+15/05/2011,The Wolf and the Lion,0.0,0.226,0.774,-0.5423,1.0,5.0,varys,He's found one bastard already. He has the book. The rest will come.
+15/05/2011,The Wolf and the Lion,0.089,0.299,0.612,-0.7591,1.0,5.0,arya stark,I'm not lying! They said you found the bastard and the wolves are fighting the lions and the savage... something about the savage.
+15/05/2011,The Wolf and the Lion,0.153,0.118,0.73,0.4617,1.0,5.0,lysa arryn,"You bring him here without permission? You pollute my home with his presence? Your aunt has done a bad thing, Robin, a very bad thing. You remember her, don't you? Isn't he beautiful? And strong too. Jon knew it. His last words were, ""the seed is strong."" He wanted everyone to know what a good, strong boy his son would grow up to be. Look at him, the Lord of all the Vale."
+15/05/2011,The Wolf and the Lion,0.0,0.364,0.636,-0.6124,1.0,5.0,eddard stark,What do you know of King Robert's bastards?
+29/05/2011,You Win or You Die,0.0,0.0,1.0,0.0,1.0,7.0,sam tarly,"Jon, wait! Don't you see what they're doing?"
+05/06/2011,The Pointy End,0.0,0.778,0.222,-0.5423,1.0,8.0,kings guard,Foreign bastard.
+12/06/2011,Baelor,0.159,0.136,0.705,-0.1007,1.0,9.0,varys,"l want you to serve the realm! Tell the queen you will confess your vile treason, tell your son to lay down his sword and proclaim Joffrey as the true heir. Cersei knows you as a man of honor. lf you give her the peace she needs, and promise to carry her secret to your grave, l believe she will allow you to take the black and live out your days on the Wall with your brother and your bastard son."
+12/06/2011,Baelor,0.104,0.146,0.75,-0.25,1.0,9.0,walder frey,"l need lessons in courtesy from you, bastard? Your mother would still be a milkmaid if l hadn't squirted you into her belly."
+19/06/2011,Fire and Blood,0.06,0.14,0.8,-0.8271,1.0,10.0,jeor mormont,"l'll not sit meekly by and wait for the snows. l mean to find out what's happening. The Night's Watch will ride in force against the wildlings, the White Walkers and whatever else is out there. And we will find Benjen Stark, alive or dead. l will command them myself. So l'll only ask you once, Lord Snow, are you a brother of the Night's Watch or a bastard boy who wants to play at war?"
+19/06/2011,Fire and Blood,0.06,0.14,0.8,-0.8271,1.0,10.0,jeor mormont,"l'll not sit meekly by and wait for the snows. l mean to find out what's happening. The Night's Watch will ride in force against the wildlings, the White Walkers and whatever else is out there. And we will find Benjen Stark, alive or dead. l will command them myself. So l'll only ask you once, Lord Snow, are you a brother of the Night's Watch or a bastard boy who wants to play at war?"
+01/04/2012,The North Remembers,0.0,0.127,0.873,-0.5423,2.0,1.0,craster,"Snow, eh? Listen to me, bastard. All you lot from south of the Wall, you're Southerners. But now you're in the North, the real North."
+01/04/2012,The North Remembers,0.239,0.239,0.522,-0.0018,2.0,1.0,craster,I catch that pretty little bastard talking to my daughters -
+01/04/2012,The North Remembers,0.0,0.284,0.716,-0.9129,2.0,1.0,robb stark,You're held captive by a boy. Perhaps you'll be killed by a boy. . Stannis Baratheon sent ravens to all the high lords of Westeros. King Joffrey Baratheon is neither a true king nor a true Baratheon. . He's your bastard son.
+01/04/2012,The North Remembers,0.0,0.399,0.601,-0.9062,2.0,1.0,joffrey lannister,I'm asking if he fucked other women when he grew tired of you. How many bastards does he have running -
+01/04/2012,The North Remembers,0.0,0.621,0.379,-0.8481,2.0,1.0,janos,Enough. Get it done. Kill the bastard.
+01/04/2012,The North Remembers,0.0,0.538,0.462,-0.5423,2.0,1.0,janos,Where is the bastard?
+08/04/2012,The Night Lands,0.0,0.364,0.636,-0.6124,2.0,2.0,joffrey lannister,How many bastards does he have running around?
+08/04/2012,The Night Lands,0.0,0.538,0.462,-0.5423,2.0,2.0,janos,Where is the bastard?
+08/04/2012,The Night Lands,0.086,0.081,0.833,0.0516,2.0,2.0,gold cloak,We're looking for a boy named Gendry. . He carries a bull's head helmet. Anyone turning him over will earn the King's reward. We'll be back. With more men. And I'll be taking your head home along with that bastard boy.
+08/04/2012,The Night Lands,0.048,0.586,0.365,-0.9595,2.0,2.0,tyrion lannister,"No, but who else would want to murder King Robert's bastards? She's always been a jealous woman."
+08/04/2012,The Night Lands,0.155,0.147,0.697,-0.1779,2.0,2.0,tyrion lannister,"That's good of you, but you have heard them. I suppose people who do believe that filth, consider Robert's bastards to be better claimants to the throne than Cersei's children."
+08/04/2012,The Night Lands,0.0,0.23,0.77,-0.8818,2.0,2.0,gendry baratheon,"He could be one of those gold-hatted bastards, for all I know. What about you, anyway? You thought they were after you, why? Did you kill someone, or is it just because you're a girl?"
+15/04/2012,What Is Dead May Never Die,0.0,0.0,1.0,0.0,2.0,3.0,craster,This bastardo s been meddling where he shouldn't!
+29/04/2012,The Ghost of Harrenhal,0.0,0.274,0.726,-0.5994,2.0,5.0,sam,"I could take up Jon's duties while he's gone, my lord. It would be no trouble."
+06/05/2012,The Old Gods and the New,0.09,0.235,0.676,-0.9143,2.0,6.0,qhorin,"I don't want you to be glad about it. I want you to curse and fight until your heart's done pumping. And know this, boy. Your death will be a gift for them south of the Wall. They'll never know what you've done. They'll never know how you died. They won't even know your damn name. But they'll be alive because some nameless bastard north of the Wall gave his life for theirs. Now, do you understand me?"
+06/05/2012,The Old Gods and the New,0.144,0.289,0.567,-0.2023,2.0,6.0,ygritte,"Strike hard and true, Jon Snow, or I'll come back and haunt you. That's cold."
+06/05/2012,The Old Gods and the New,0.144,0.289,0.567,-0.2023,2.0,6.0,ygritte,"Strike hard and true, Jon Snow, or I'll come back and haunt you. That's cold."
+06/05/2012,The Old Gods and the New,0.0,0.487,0.513,-0.5848,2.0,6.0,ygritte,"Do it. Bastard, do it!"
+06/05/2012,The Old Gods and the New,0.22,0.0,0.78,0.4767,2.0,6.0,ygritte,"The sun's going down, Jon Snow. And your friends are nowhere close."
+06/05/2012,The Old Gods and the New,0.22,0.0,0.78,0.4767,2.0,6.0,ygritte,"The sun's going down, Jon Snow. And your friends are nowhere close."
+06/05/2012,The Old Gods and the New,0.0,1.0,0.0,-0.8652,2.0,6.0,man,Murderer! Bastard!
+06/05/2012,The Old Gods and the New,0.0,0.791,0.209,-0.5848,2.0,6.0,man,He's a bastard!
+06/05/2012,The Old Gods and the New,0.091,0.088,0.822,0.0516,2.0,6.0,roose,"Theon holds the castle with a skeleton crew. Let me send word to my bastard at the Dreadfort. He can raise a few hundred men and retake Winterfell before the new moon. We have the Lannisters on the run. If you march all the way back north now, you'll lose what you gained. My boy would be honored to bring you Prince Theon's head."
+13/05/2012,A Man Without Honor,0.286,0.0,0.714,0.7793,2.0,7.0,tywin lannister,Aren't most girls more interested in the pretty maidens from the songs? Jonquil with the flowers in her hair?
+13/05/2012,A Man Without Honor,0.0,0.0,1.0,0.0,2.0,7.0,ygritte,"You know nothing, Jon Snow."
+13/05/2012,A Man Without Honor,0.0,0.0,1.0,0.0,2.0,7.0,ygritte,"You know nothing, Jon Snow."
+13/05/2012,A Man Without Honor,0.068,0.213,0.719,-0.9448,2.0,7.0,ygritte,"I swear it, Old Master King Crow, ser, we were only close together for warmth. And then I felt it, right up against me backside like a club. I can show you the bruise on me tailbone. And before I knew what was where, his his Well, it was all out in the open, all angry as you like. And I didn't want to want it, but oh, I did! And he spread me legs and ruined. The shame of it. Now I can never marry a perfumed lord. What will me poor savage father say?"
+13/05/2012,A Man Without Honor,0.064,0.0,0.936,0.3919,2.0,7.0,ygritte,"And I thought that we were done, but he said, ''Turn back around.'"" I'll tell you what, Jon Snow. Since it's gonna be your word against mine, and since you can't talk about it without blushing, we may as well just-"
+13/05/2012,A Man Without Honor,0.064,0.0,0.936,0.3919,2.0,7.0,ygritte,"And I thought that we were done, but he said, ''Turn back around.'"" I'll tell you what, Jon Snow. Since it's gonna be your word against mine, and since you can't talk about it without blushing, we may as well just-"
+13/05/2012,A Man Without Honor,0.097,0.311,0.592,-0.9101,2.0,7.0,jaime lannister,"Do you know, I've never been with any woman but Cersei. So in my own way, I have more honor than poor old dead Ned. What was the name of that bastard he fathered?"
+13/05/2012,A Man Without Honor,0.278,0.161,0.56,0.8873,2.0,7.0,jaime lannister,"No, that wasn't it. Snow, a bastard from the North. Now, when When good old Ned came home with some whore's baby, did you pretend to love it? No. You're not very good at pretending. You're an honest woman. You hated that boy, didn't you? How could you not hate him? The walking, talking reminder that the honorable Lord Eddard Stark fucked another woman."
+20/05/2012,The Prince of Winterfell,0.0,0.368,0.632,-0.5423,2.0,8.0,ygritte,"He's a bastard of Winterfell, Ned Stark's son."
+20/05/2012,The Prince of Winterfell,0.0,0.368,0.632,-0.5423,2.0,8.0,ygritte,"He's a bastard of Winterfell, Ned Stark's son."
+20/05/2012,The Prince of Winterfell,0.092,0.553,0.355,-0.8176,2.0,8.0,lord of bones,What does Mance want with a dead man's bastard?
+20/05/2012,The Prince of Winterfell,0.0,0.0,1.0,0.0,2.0,8.0,ygritte,"We're even now, Jon Snow."
+20/05/2012,The Prince of Winterfell,0.0,0.0,1.0,0.0,2.0,8.0,ygritte,"We're even now, Jon Snow."
+20/05/2012,The Prince of Winterfell,0.427,0.267,0.305,0.2732,2.0,8.0,quorin,"I should have known better, trusting a traitor's bastard."
+20/05/2012,The Prince of Winterfell,0.0,0.0,1.0,0.0,2.0,8.0,sam,Where do you think Jon is right now?
+20/05/2012,The Prince of Winterfell,0.786,0.0,0.214,0.8759,2.0,8.0,sam,"He's not dead. No, Jon's a great fighter."
+20/05/2012,The Prince of Winterfell,0.0,0.156,0.844,-0.5423,2.0,8.0,roose bolton,We've sent a dozen ravens. None have returned. My bastard is only a few days from Winterfell. Once he captures the castle
+27/05/2012,Blackwater,0.175,0.131,0.694,0.5204,2.0,9.0,cersei lannister,"Do you have any notion of what happens when a city is sacked? No, you wouldn't, would you? If the city falls, these fine women should be in for a bit of a rape. Half of them will have bastards in their bellies come the morning. You'll be glad of your red flower then. When a man's blood is up, anything with tits looks good. A precious thing like you will look very, very good. A slice of cake just waiting to be eaten."
+27/05/2012,Blackwater,0.0,0.578,0.422,-0.8904,2.0,9.0,man,"Faster, you bastards! Faster! Come on, kill the scum!"
+27/05/2012,Blackwater,0.0,0.396,0.604,-0.6792,2.0,9.0,man,"Come on, you bastards! Get up those ladders!"
+03/06/2012,Valar Morghulis,0.188,0.141,0.671,0.1779,2.0,10.0,theon greyjoy,The opportunity for Jon Snow to cut my throat in my sleep.
+03/06/2012,Valar Morghulis,0.188,0.141,0.671,0.1779,2.0,10.0,theon greyjoy,The opportunity for Jon Snow to cut my throat in my sleep.
+03/06/2012,Valar Morghulis,0.1,0.11,0.79,-0.0772,2.0,10.0,luwin,"There are too many enemies in the south. Go to the Wall, to Jon. He'll look after you and let your mother know you're safe."
+03/06/2012,Valar Morghulis,0.0,0.0,1.0,0.0,2.0,10.0,ygritte,"Come along, Jon Snow."
+03/06/2012,Valar Morghulis,0.0,0.0,1.0,0.0,2.0,10.0,ygritte,"Come along, Jon Snow."
+03/06/2012,Valar Morghulis,0.0,0.0,1.0,0.0,2.0,10.0,sam,It's Jon and the Halfhand. They're back.
+31/03/2013,Valar Dohaeris,0.0,0.0,1.0,0.0,3.0,1.0,ygritte,"First time you've seen a giant, Jon Snow?"
+31/03/2013,Valar Dohaeris,0.0,0.0,1.0,0.0,3.0,1.0,ygritte,"First time you've seen a giant, Jon Snow?"
+31/03/2013,Valar Dohaeris,0.138,0.24,0.623,-0.7133,3.0,1.0,ygritte,"Some of them were killed by crows like you. Don't look so grim, Jon Snow. If Mance Rayder likes you, you'll live another day. And if he don't..."
+31/03/2013,Valar Dohaeris,0.138,0.24,0.623,-0.7133,3.0,1.0,ygritte,"Some of them were killed by crows like you. Don't look so grim, Jon Snow. If Mance Rayder likes you, you'll live another day. And if he don't..."
+31/03/2013,Valar Dohaeris,0.234,0.203,0.563,0.1779,3.0,1.0,mance,"So, you're Ned Stark's bastard. Thank you for the gift, Lord of Bones. You can leave us."
+31/03/2013,Valar Dohaeris,0.333,0.0,0.667,0.3612,3.0,1.0,mance,"Why do you want to join us, Jon Snow?"
+31/03/2013,Valar Dohaeris,0.333,0.0,0.667,0.3612,3.0,1.0,mance,"Why do you want to join us, Jon Snow?"
+07/04/2013,"Dark Wings, Dark Words",0.0,0.069,0.931,-0.5423,3.0,2.0,robb stark,"By the time Bolton's bastard Ramsay got to Winterfell, the Ironborn were gone. They massacred everyone and put the castle to the torch. And Bran and Rickon have not been found. They may have escaped. Or Theon may have taken them back to the Iron Islands as hostages."
+07/04/2013,"Dark Wings, Dark Words",0.061,0.226,0.712,-0.9782,3.0,2.0,catelyn stark,"Jon Snow. When my husband brought that baby home from the war, I couldn't bear to look at him. I didn't want to see those brown stranger's eyes staring up at me. So I prayed to the gods, take him away. Make him die. He got the pox. And I knew I was the worst woman who ever lived. A murderer. I'd condemned this poor, innocent child to a horrible death all because I was jealous of his mother. A woman he didn't even know. So I prayed to all seven gods, let the boy live. Let him live and I'll love him. I'll be a mother to him. I'll beg my husband to give him a true name, to call him Stark and be done with it, to make him one of us."
+07/04/2013,"Dark Wings, Dark Words",0.061,0.226,0.712,-0.9782,3.0,2.0,catelyn stark,"Jon Snow. When my husband brought that baby home from the war, I couldn't bear to look at him. I didn't want to see those brown stranger's eyes staring up at me. So I prayed to the gods, take him away. Make him die. He got the pox. And I knew I was the worst woman who ever lived. A murderer. I'd condemned this poor, innocent child to a horrible death all because I was jealous of his mother. A woman he didn't even know. So I prayed to all seven gods, let the boy live. Let him live and I'll love him. I'll be a mother to him. I'll beg my husband to give him a true name, to call him Stark and be done with it, to make him one of us."
+14/04/2013,Walk of Punishment,0.617,0.0,0.383,0.4973,3.0,3.0,tyrion lannister,Not for bastards.
+14/04/2013,Walk of Punishment,0.0,0.616,0.384,-0.4951,3.0,3.0,soldier,You little bastard.
+28/04/2013,Kissed by Fire,0.0,0.0,1.0,0.0,3.0,5.0,ygritte,"Why are you still dressed? You know nothing, Jon Sno-"
+28/04/2013,Kissed by Fire,0.0,0.119,0.881,-0.1083,3.0,5.0,ygritte,"Let's not go back. Let's stay here a while longer. I don't ever want to leave this cave, Jon Snow. Not ever."
+28/04/2013,Kissed by Fire,0.0,0.119,0.881,-0.1083,3.0,5.0,ygritte,"Let's not go back. Let's stay here a while longer. I don't ever want to leave this cave, Jon Snow. Not ever."
+05/05/2013,The Climb,0.0,0.0,1.0,0.0,3.0,6.0,jojen,I saw Jon Snow.
+05/05/2013,The Climb,0.0,0.0,1.0,0.0,3.0,6.0,jojen,I saw Jon Snow.
+05/05/2013,The Climb,0.0,0.316,0.684,-0.85,3.0,6.0,ygritte,"Can we not talk about that here? I'm Jon Snow. I've killed dead men and Qhorin Halfhand, but I'm scared of naked girls."
+05/05/2013,The Climb,0.0,0.316,0.684,-0.85,3.0,6.0,ygritte,"Can we not talk about that here? I'm Jon Snow. I've killed dead men and Qhorin Halfhand, but I'm scared of naked girls."
+05/05/2013,The Climb,0.394,0.0,0.606,0.8445,3.0,6.0,ygritte,"Only in the beginning. You're a proper lover, Jon Snow. And don't worry. Your secret's safe with me."
+05/05/2013,The Climb,0.394,0.0,0.606,0.8445,3.0,6.0,ygritte,"Only in the beginning. You're a proper lover, Jon Snow. And don't worry. Your secret's safe with me."
+05/05/2013,The Climb,0.051,0.213,0.736,-0.8737,3.0,6.0,ygritte,"But I'm your woman now, Jon Snow. You're going to be loyal to your woman. The Night's Watch don't care if you live or die. Mance Rayder don't care if I live or die. We're just soldiers in their armies and there's plenty more to carry on if we go down."
+05/05/2013,The Climb,0.051,0.213,0.736,-0.8737,3.0,6.0,ygritte,"But I'm your woman now, Jon Snow. You're going to be loyal to your woman. The Night's Watch don't care if you live or die. Mance Rayder don't care if I live or die. We're just soldiers in their armies and there's plenty more to carry on if we go down."
+05/05/2013,The Climb,0.0,0.368,0.632,-0.5423,3.0,6.0,ygritte,"You staring at my ass, Jon Snow?"
+05/05/2013,The Climb,0.0,0.368,0.632,-0.5423,3.0,6.0,ygritte,"You staring at my ass, Jon Snow?"
+12/05/2013,The Bear and the Maiden Fair,0.0,0.0,1.0,0.0,3.0,7.0,ygritte,"You know nothing, Jon Snow."
+12/05/2013,The Bear and the Maiden Fair,0.0,0.0,1.0,0.0,3.0,7.0,ygritte,"You know nothing, Jon Snow."
+12/05/2013,The Bear and the Maiden Fair,0.0,0.636,0.364,-0.5423,3.0,7.0,gendry baratheon,I'm just a bastard.
+12/05/2013,The Bear and the Maiden Fair,0.0,0.093,0.907,-0.5423,3.0,7.0,melisandre,"The bastard of Robert of the House Baratheon, First of His Name, King of the Andals and the First Men. Why do you think the gold cloaks wanted you? There is power in a king's blood."
+12/05/2013,The Bear and the Maiden Fair,0.0,0.0,1.0,0.0,3.0,7.0,ygritte,I'm Jon Snow and I'm from Winterfell. My daddy was a fancy lord and I lived in a tower that touched the clouds.
+12/05/2013,The Bear and the Maiden Fair,0.0,0.0,1.0,0.0,3.0,7.0,ygritte,I'm Jon Snow and I'm from Winterfell. My daddy was a fancy lord and I lived in a tower that touched the clouds.
+12/05/2013,The Bear and the Maiden Fair,0.299,0.0,0.701,0.7959,3.0,7.0,ygritte,"Well, girls see more blood than boys. Or do you like girls who swoon, Jon Snow? Oh, a spider! Save me, Jon Snow."
+12/05/2013,The Bear and the Maiden Fair,0.299,0.0,0.701,0.7959,3.0,7.0,ygritte,"Well, girls see more blood than boys. Or do you like girls who swoon, Jon Snow? Oh, a spider! Save me, Jon Snow."
+12/05/2013,The Bear and the Maiden Fair,0.0,0.0,1.0,0.0,3.0,7.0,jojen,I told you already. Jon Snow isn't there. Bran needs to find the raven beyond the Wall.
+12/05/2013,The Bear and the Maiden Fair,0.0,0.0,1.0,0.0,3.0,7.0,jojen,I told you already. Jon Snow isn't there. Bran needs to find the raven beyond the Wall.
+19/05/2013,Second Sons,0.0,0.129,0.871,-0.4767,3.0,8.0,jorah mormont,"Only by the broken swords on their banners. They're called the Second Sons. A company led by a Braavosi named Mero, ""The Titan's Bastard."""
+19/05/2013,Second Sons,0.0,0.429,0.571,-0.5809,3.0,8.0,daenerys targaryen,Is he more titan or bastard?
+19/05/2013,Second Sons,0.36,0.213,0.427,0.34,3.0,8.0,daenerys targaryen,I'd like to talk to the Titan's Bastard about winning.
+19/05/2013,Second Sons,0.281,0.19,0.529,0.2359,3.0,8.0,mero,"Good. The Titan's Bastard does not drink alone. In the Second Sons, we share everything. After the battle, maybe we'll all share you."
+19/05/2013,Second Sons,0.0,0.538,0.462,-0.7906,3.0,8.0,stannis baratheon,Came back with a bastard boy. Robert's bastard boy.
+19/05/2013,Second Sons,0.07,0.169,0.761,-0.7084,3.0,8.0,stannis baratheon,"How many boys live in Westeros? How many girls? How many men? How many women?The darkness will devour them all, she says. The night that never ends. Unless I triumph. I never asked for this. No more than I asked to be king. We do not choose our destiny, but we must do our duty, no? Great or small, we must do our duty. What's one bastard boy against a kingdom?"
+02/06/2013,The Rains of Castamere,0.0,0.0,1.0,0.0,3.0,9.0,bran stark,"When I was looking through Summer's eyes, I saw Jon."
+09/06/2013,Mhysa,0.0,0.156,0.844,-0.5423,3.0,10.0,roose bolton,I sent my bastard Ramsay to root him out. Robb Stark offered amnesty for the Ironborn if they gave us Theon.
+09/06/2013,Mhysa,0.0,0.0,1.0,0.0,3.0,10.0,sam,You're Jon's brother. The one who fell from the window.
+09/06/2013,Mhysa,0.093,0.148,0.759,-0.3818,3.0,10.0,sam,"I'd be dead if it wasn't for Jon. If you're his brother, you're my brother, too. And anything I can do to help you, I will."
+09/06/2013,Mhysa,0.275,0.0,0.725,0.6486,3.0,10.0,sam,"If Jon is alive, then Castle Black's where he'll be. It's the safest place for you."
+09/06/2013,Mhysa,0.0,0.0,1.0,0.0,3.0,10.0,ygritte,"You know nothing, Jon Snow."
+09/06/2013,Mhysa,0.0,0.0,1.0,0.0,3.0,10.0,ygritte,"You know nothing, Jon Snow."
+09/06/2013,Mhysa,0.0,0.333,0.667,-0.5423,3.0,10.0,shireen,His fangs were as long as bastard swords.
+09/06/2013,Mhysa,0.0,0.28,0.72,-0.5423,3.0,10.0,stannis baratheon,What is the life of one bastard boy against a kingdom?
+09/06/2013,Mhysa,0.0,0.0,1.0,0.0,3.0,10.0,sam,"Jon! Jon! Jon, it's us."
+06/04/2014,Two Swords,0.0,0.352,0.648,-0.8466,4.0,1.0,ellaria,A lie anywhere. Why not use the right words? I'm a bastard. She is a whore. And you're what? A procurer.
+06/04/2014,Two Swords,0.0,0.333,0.667,-0.5423,4.0,1.0,janos slynt,A bastard son of a traitor. What would you expect?
+06/04/2014,Two Swords,0.125,0.0,0.875,0.5106,4.0,1.0,maester aemon,"None of us are free. We are men of the Night's Watch. But we won't be taking your head today, Jon Snow. Go on."
+06/04/2014,Two Swords,0.125,0.0,0.875,0.5106,4.0,1.0,maester aemon,"None of us are free. We are men of the Night's Watch. But we won't be taking your head today, Jon Snow. Go on."
+06/04/2014,Two Swords,0.333,0.316,0.351,0.0382,4.0,1.0,alliser thorne,And I don't trust the bastard.
+13/04/2014,The Lion and the Rose,0.0,0.368,0.632,-0.5423,4.0,2.0,roose,"Walda, this is Ramsay Snow, my bastard."
+13/04/2014,The Lion and the Rose,0.0,0.0,1.0,0.0,4.0,2.0,theon greyjoy,Jon Snow is at Castle Black.
+13/04/2014,The Lion and the Rose,0.0,0.0,1.0,0.0,4.0,2.0,theon greyjoy,Jon Snow is at Castle Black.
+13/04/2014,The Lion and the Rose,0.0,0.412,0.588,-0.5423,4.0,2.0,locke,Who the fuck is Jon Snow?
+13/04/2014,The Lion and the Rose,0.0,0.412,0.588,-0.5423,4.0,2.0,locke,Who the fuck is Jon Snow?
+13/04/2014,The Lion and the Rose,0.0,0.212,0.788,-0.5423,4.0,2.0,roose,Their bastard brother. He could be sheltering them. He may know where they are.
+13/04/2014,The Lion and the Rose,0.265,0.21,0.525,0.0093,4.0,2.0,oberyn martell,"Bastards are born of passion, aren't they? We don't despise them in Dorne."
+20/04/2014,Breaker of Chains,0.231,0.239,0.53,-0.1027,4.0,3.0,stannis baratheon,The usurper Joffrey Baratheon. I said those words when I tossed a leech into the fire. A leech filled with bastard blood. A bastard you set free. I am now faced with a great opportunity and I am powerless to take advantage of it.
+20/04/2014,Breaker of Chains,0.206,0.0,0.794,0.5994,4.0,3.0,alliser thorne,"You're a champion of the common people, Lord Snow. What do you say to Brother Pyp's proposition?"
+27/04/2014,Oathkeeper,0.04,0.228,0.732,-0.7339,4.0,4.0,alliser thorne,And that someone isn't you. Go find a chamber pot to empty. Go on. Do it. You traitor's bastard. Give me an excuse. Mormont's not hereto protect you now.
+27/04/2014,Oathkeeper,0.0,0.0,1.0,0.0,4.0,4.0,janos slynt,The bastardo s well-liked.You're not.
+27/04/2014,Oathkeeper,0.0,0.412,0.588,-0.5423,4.0,4.0,locke,"A bastard, eh? Took you for highborn."
+27/04/2014,Oathkeeper,0.0,0.0,1.0,0.0,4.0,4.0,bran stark,They're Night's Watch. Look. Jon might be here.
+27/04/2014,Oathkeeper,0.0,0.0,1.0,0.0,4.0,4.0,meera,"If Jon was here, why would they put his wolf in a cage?"
+27/04/2014,Oathkeeper,0.0,0.0,1.0,0.0,4.0,4.0,rast,It's Jon Snow's brother.
+27/04/2014,Oathkeeper,0.0,0.0,1.0,0.0,4.0,4.0,rast,It's Jon Snow's brother.
+04/05/2014,First of His Name,0.051,0.188,0.761,-0.6146,4.0,5.0,jorah mormont,You could sail for Westeros and leave it all behind. A boy sits on the Iron Throne. A boy many believe to be a bastard with no right to it. They've never been more vulnerable.
+04/05/2014,First of His Name,0.113,0.0,0.887,0.7757,4.0,5.0,lysa,"What wife would do for you the things I've done for you? What wife would trust you the way I've trusted you? When you gave me those drops and told me to pour them into Jon's wine, my husbando s wine... when you told me to write a letter to Cat telling her it was the Lannisters..."
+04/05/2014,First of His Name,0.0,0.314,0.686,-0.4951,4.0,5.0,sandor clegane,"Braavos. Greasy-haired little bastard, I bet. They all are."
+04/05/2014,First of His Name,0.0,0.0,1.0,0.0,4.0,5.0,bran stark,Is Jon with you?
+04/05/2014,First of His Name,0.0,0.0,1.0,0.0,4.0,5.0,bronn,Jon! Jon!
+04/05/2014,First of His Name,0.0,0.0,1.0,0.0,4.0,5.0,bran stark,Jon.
+04/05/2014,First of His Name,0.0,0.0,1.0,0.0,4.0,5.0,bran stark,Jon!
+04/05/2014,First of His Name,0.0,0.0,1.0,0.0,4.0,5.0,grenn,Jon.
+11/05/2014,The Laws of Gods and Men,0.096,0.249,0.655,-0.5423,4.0,6.0,stannis baratheon,He shares no blood with me. He is a bastard born of incest. As was his brother before him.
+11/05/2014,The Laws of Gods and Men,0.123,0.625,0.253,-0.9314,4.0,6.0,tyrion lannister,"Watching your vicious bastard die gave me more relief than 1,000 lying whores."
+18/05/2014,Mockingbird,0.0,0.0,1.0,0.0,4.0,7.0,sam,"All right, Jon?"
+18/05/2014,Mockingbird,0.0,0.0,1.0,0.0,4.0,7.0,alliser,"Remind me which order you belong to, Lord Snow."
+18/05/2014,Mockingbird,0.124,0.0,0.876,0.5267,4.0,7.0,alliser,"Ah, the builders. First Builder Yarwyck, Lord Snow here recommends sealing the tunnel, leaving us unable to carry out our duties as sworn brothers of the Night's Watch. Do you agree with him?"
+18/05/2014,Mockingbird,0.0,0.0,1.0,0.0,4.0,7.0,alliser,"Given your deep knowledge of the Wildling army, Lord Snow, you and Tarly will take night duties atop the Wall until the full moon."
+18/05/2014,Mockingbird,0.081,0.402,0.518,-0.8796,4.0,7.0,tyrion lannister,Why are you sorry? Because you're an evil bastard with no conscience and no heart? That's what I liked about you in the first place.
+08/06/2014,The Watchers on the Wall,0.079,0.177,0.744,-0.5859,4.0,9.0,ygritte,"Jon Snow is mine. *shouting* Anyone else tries to kill him, I'll have an arrow for them. *to Styr* And not one of your bald friends is fast enough to stop me."
+08/06/2014,The Watchers on the Wall,0.079,0.177,0.744,-0.5859,4.0,9.0,ygritte,"Jon Snow is mine. *shouting* Anyone else tries to kill him, I'll have an arrow for them. *to Styr* And not one of your bald friends is fast enough to stop me."
+08/06/2014,The Watchers on the Wall,0.207,0.098,0.695,0.8268,4.0,9.0,aemon,Yes. Imagine the stories Wildlings tell about us! Love is the death of duty. I told that to your friend Jon Snow once. He didn't listen and neither did you. That's why you abandoned your watch atop the wall to come here and read about the things that may have happened to the girl you love.
+08/06/2014,The Watchers on the Wall,0.207,0.098,0.695,0.8268,4.0,9.0,aemon,Yes. Imagine the stories Wildlings tell about us! Love is the death of duty. I told that to your friend Jon Snow once. He didn't listen and neither did you. That's why you abandoned your watch atop the wall to come here and read about the things that may have happened to the girl you love.
+08/06/2014,The Watchers on the Wall,0.078,0.115,0.807,-0.701,4.0,9.0,alliser,"Do you know what leadership means, Lord Snow? It means that the person in charge gets second-guessed by every clever little twat with a mouth. But if he starts second-guessing himself, that's the end. For him. For the clever little twats. For everyone. This is not the end. Not for us. Not if you lot do your duty for however long it takes to beat them back. And then you get to go on hating me and I get to go on wishing your Wildling whore had finished the job."
+08/06/2014,The Watchers on the Wall,0.0,0.338,0.662,-0.8257,4.0,9.0,grenn,"They won't. Come on Hill! And you Cooper! You three, on me! Come on you lazy bastards!"
+08/06/2014,The Watchers on the Wall,0.0,0.0,1.0,0.0,4.0,9.0,grenn,Tell Jon! He's in command. *to the men behind him* Let's go!
+08/06/2014,The Watchers on the Wall,0.0,0.0,1.0,0.0,4.0,9.0,grenn,"You heard Jon, we hold the gate."
+08/06/2014,The Watchers on the Wall,0.0,0.0,1.0,0.0,4.0,9.0,donnel,Jon Snow's not Lord Commander.
+08/06/2014,The Watchers on the Wall,0.0,0.0,1.0,0.0,4.0,9.0,donnel,Jon Snow's not Lord Commander.
+08/06/2014,The Watchers on the Wall,0.0,0.0,1.0,0.0,4.0,9.0,ygritte,Jon Snow.
+08/06/2014,The Watchers on the Wall,0.0,0.0,1.0,0.0,4.0,9.0,ygritte,Jon Snow.
+08/06/2014,The Watchers on the Wall,0.0,0.0,1.0,0.0,4.0,9.0,ygritte,"You know nothing, Jon Snow."
+08/06/2014,The Watchers on the Wall,0.0,0.0,1.0,0.0,4.0,9.0,ygritte,"You know nothing, Jon Snow."
+08/06/2014,The Watchers on the Wall,0.0,0.0,1.0,0.0,4.0,9.0,sam,Jon. Come back.
+15/06/2014,The Children,0.381,0.0,0.619,0.93,4.0,10.0,mance,"It appears my trusting nature got the better of me. It's happened before. I was hoping your loyalty was real when you pledged yourself to us, Jon Snow, truly I was."
+15/06/2014,The Children,0.381,0.0,0.619,0.93,4.0,10.0,mance,"It appears my trusting nature got the better of me. It's happened before. I was hoping your loyalty was real when you pledged yourself to us, Jon Snow, truly I was."
+15/06/2014,The Children,0.115,0.24,0.645,-0.6597,4.0,10.0,mance,"No, it's a proper Northern drink, Jon Snow. You did well. Fought hard. Killed some of our strongest men. One of our giants went into your tunnel and never came out again. Mag the Mighty."
+15/06/2014,The Children,0.115,0.24,0.645,-0.6597,4.0,10.0,mance,"No, it's a proper Northern drink, Jon Snow. You did well. Fought hard. Killed some of our strongest men. One of our giants went into your tunnel and never came out again. Mag the Mighty."
+15/06/2014,The Children,0.088,0.179,0.733,-0.9643,4.0,10.0,mance,"I showed you everything I had. The whole army, a hundred thousand strong, and what did you do? You fired on us with everything you had. It wasn't much. Soon as I saw that I sent four hundred men to climb the wall. An unmanned stretch five miles west of here. A lot of them will die climbing, but most of them will be over by the end of the day. This is me being honest with you, Jon Snow, which is more than you've ever done for me. My people have bled enough. We're not here to conquer, we're here to hide behind your wall just like you. We need your tunnel. Now we both know that winter is coming and if my people aren't south of the wall when it comes in earnest, we'll all end up worse than dead. Wanna strike a bargain with me? Here's a bargain. You go back, you open the gates to us and I swear to you that no one else will die. Refuse and we'll kill every last man in Castle Black."
+15/06/2014,The Children,0.088,0.179,0.733,-0.9643,4.0,10.0,mance,"I showed you everything I had. The whole army, a hundred thousand strong, and what did you do? You fired on us with everything you had. It wasn't much. Soon as I saw that I sent four hundred men to climb the wall. An unmanned stretch five miles west of here. A lot of them will die climbing, but most of them will be over by the end of the day. This is me being honest with you, Jon Snow, which is more than you've ever done for me. My people have bled enough. We're not here to conquer, we're here to hide behind your wall just like you. We need your tunnel. Now we both know that winter is coming and if my people aren't south of the wall when it comes in earnest, we'll all end up worse than dead. Wanna strike a bargain with me? Here's a bargain. You go back, you open the gates to us and I swear to you that no one else will die. Refuse and we'll kill every last man in Castle Black."
+15/06/2014,The Children,0.097,0.175,0.728,-0.7581,4.0,10.0,mance,"Ah! Oh, that's why you're here. I reckon you could do it before any of them could stop ya. They'd kill you of course, they'd kill ya slow, but ya knew that when you came in here. Are you capable of that, Jon Snow? Killing a man in his own tent when he's just offered ya peace? Is that what the Night's Watch is? Is that what you are?"
+15/06/2014,The Children,0.097,0.175,0.728,-0.7581,4.0,10.0,mance,"Ah! Oh, that's why you're here. I reckon you could do it before any of them could stop ya. They'd kill you of course, they'd kill ya slow, but ya knew that when you came in here. Are you capable of that, Jon Snow? Killing a man in his own tent when he's just offered ya peace? Is that what the Night's Watch is? Is that what you are?"
+15/06/2014,The Children,0.0,0.0,1.0,0.0,4.0,10.0,tormund,"You spent too much time with us, Jon Snow. You can never be a kneeler again."
+15/06/2014,The Children,0.0,0.0,1.0,0.0,4.0,10.0,tormund,"You spent too much time with us, Jon Snow. You can never be a kneeler again."
+12/04/2015,The Wars to Come,0.203,0.0,0.797,0.2584,5.0,1.0,melisandre,"Never. The Lordo s fire lives within me, Jon Snow."
+12/04/2015,The Wars to Come,0.203,0.0,0.797,0.2584,5.0,1.0,melisandre,"Never. The Lordo s fire lives within me, Jon Snow."
+12/04/2015,The Wars to Come,0.272,0.34,0.388,-0.1779,5.0,1.0,melisandre,Your grace. The bastard of Winterfell.
+12/04/2015,The Wars to Come,0.272,0.34,0.388,-0.1779,5.0,1.0,melisandre,Your grace. The bastard of Winterfell.
+12/04/2015,The Wars to Come,0.0,0.0,1.0,0.0,5.0,1.0,stannis baratheon,"Nightfall. The sun drops fast this time of year. Hurry, Jon Snow."
+12/04/2015,The Wars to Come,0.0,0.0,1.0,0.0,5.0,1.0,stannis baratheon,"Nightfall. The sun drops fast this time of year. Hurry, Jon Snow."
+19/04/2015,The House of Black and White,0.0,0.0,1.0,0.0,5.0,2.0,stannis baratheon,"Kneel before me. Lay your sword at my feet. Pledge me your service and you'll rise again as Jon Stark, Lord of Winterfell."
+19/04/2015,The House of Black and White,0.578,0.0,0.422,0.9287,5.0,2.0,janos,Another wildling lover just like his friend Jon Snow. How's your lady love Slayer?
+19/04/2015,The House of Black and White,0.578,0.0,0.422,0.9287,5.0,2.0,janos,Another wildling lover just like his friend Jon Snow. How's your lady love Slayer?
+19/04/2015,The House of Black and White,0.0,0.145,0.855,-0.296,5.0,2.0,sam,"Whilst Lord Janos was hiding with the women and children, Jon Snow was leading."
+19/04/2015,The House of Black and White,0.0,0.145,0.855,-0.296,5.0,2.0,sam,"Whilst Lord Janos was hiding with the women and children, Jon Snow was leading."
+19/04/2015,The House of Black and White,0.083,0.105,0.812,-0.6593,5.0,2.0,sam,"Ser Alliser fought bravely, it is true. And when he was wounded, it is Jon who saved us. He took charge of the wall's defense. He killed the Magnar of the Thenns. He went North to deal with Mance Rayder, knowing it almost certainly meant his own death. Before that, he led the mission to avenge Lord Commander Mormont. Mormont himself chose Jon to be his steward. He saw something in Jon, and now we've all seen it, too. He may be young, but he's the commander we turned to when the night was darkest."
+19/04/2015,The House of Black and White,0.174,0.062,0.764,0.8688,5.0,2.0,alliser,"I can't argue with any of that. But who does Jon Snow want to command? Night's Watch or the wildlings? Everyone knows he loved a wildling girl and spoke with Mance Rayder many times. What would have happened in that tent between those two old friends if Stannis's army hadn't come along? We all saw him put the King-beyond-the-Wall out of his misery. Do you want to choose a man who has fought the wildlings all his life, or a man who makes love to them?"
+19/04/2015,The House of Black and White,0.174,0.062,0.764,0.8688,5.0,2.0,alliser,"I can't argue with any of that. But who does Jon Snow want to command? Night's Watch or the wildlings? Everyone knows he loved a wildling girl and spoke with Mance Rayder many times. What would have happened in that tent between those two old friends if Stannis's army hadn't come along? We all saw him put the King-beyond-the-Wall out of his misery. Do you want to choose a man who has fought the wildlings all his life, or a man who makes love to them?"
+19/04/2015,The House of Black and White,0.0,0.0,1.0,0.0,5.0,2.0,brothers,Jon Snow! Jon Snow! Jon Snow! Jon Snow!
+19/04/2015,The House of Black and White,0.0,0.0,1.0,0.0,5.0,2.0,brothers,Jon Snow! Jon Snow! Jon Snow! Jon Snow!
+26/04/2015,High Sparrow,0.0,0.304,0.696,-0.5423,5.0,3.0,janos,You can stick your order up your bastard arse.
+26/04/2015,High Sparrow,0.0,0.385,0.615,-0.5809,5.0,3.0,ramsay bolton,I haven't been a lord very long. I was a bastard.
+03/05/2015,Sons of the Harpy,0.0,1.0,0.0,-0.5848,5.0,4.0,man,Bastard!
+03/05/2015,Sons of the Harpy,0.0,0.791,0.209,-0.5848,5.0,4.0,woman,Filthy bastard!
+03/05/2015,Sons of the Harpy,0.0,0.709,0.291,-0.8074,5.0,4.0,selyse,A bastard by some tavern slut.
+03/05/2015,Sons of the Harpy,0.0,0.0,1.0,0.0,5.0,4.0,melisandre,"You know nothing, Jon Snow."
+03/05/2015,Sons of the Harpy,0.0,0.0,1.0,0.0,5.0,4.0,melisandre,"You know nothing, Jon Snow."
+10/05/2015,Kill the Boy,0.159,0.171,0.67,-0.1943,5.0,5.0,aemon,"That doesn't matter. You do. You will find little joy in your command. But with luck, you will find the strength to do what needs to be done. Kill the boy, Jon Snow. Winter is almost upon us. Kill the boy, and let the man be born."
+10/05/2015,Kill the Boy,0.159,0.171,0.67,-0.1943,5.0,5.0,aemon,"That doesn't matter. You do. You will find little joy in your command. But with luck, you will find the strength to do what needs to be done. Kill the boy, Jon Snow. Winter is almost upon us. Kill the boy, and let the man be born."
+10/05/2015,Kill the Boy,0.048,0.211,0.741,-0.6597,5.0,5.0,ramsay bolton,And I meant it. When I was a bastard named Snow. But I'm a Bolton now. What I want is no longer the primary consideration. I'm furthering a dynasty.
+10/05/2015,Kill the Boy,0.111,0.095,0.793,0.1012,5.0,5.0,davos,"Uh, Your Grace. Wouldn't it be better to wait? When Jon Snow returns with the wildlings, we could have thousands more men."
+10/05/2015,Kill the Boy,0.111,0.095,0.793,0.1012,5.0,5.0,davos,"Uh, Your Grace. Wouldn't it be better to wait? When Jon Snow returns with the wildlings, we could have thousands more men."
+10/05/2015,Kill the Boy,0.081,0.0,0.919,0.5719,5.0,5.0,stannis baratheon,"If Jon Snow returns with the wildlings. We can't wait that long. We have the advantage, more men, more horses, all fed and rested. But every day we wait, the odds shift in Bolton's favor. This could turn to winter at any moment. We have to act now. Give the order. We march at sunrise."
+10/05/2015,Kill the Boy,0.081,0.0,0.919,0.5719,5.0,5.0,stannis baratheon,"If Jon Snow returns with the wildlings. We can't wait that long. We have the advantage, more men, more horses, all fed and rested. But every day we wait, the odds shift in Bolton's favor. This could turn to winter at any moment. We have to act now. Give the order. We march at sunrise."
+17/05/2015,"Unbowed, Unbent, Unbroken",0.076,0.127,0.797,-0.34,5.0,6.0,petyr baelish,"My sources are well placed. They tell me Roose Bolton plans to marry her to his son, Ramsay, a bastard recently legitimized by King Tommen."
+17/05/2015,"Unbowed, Unbent, Unbroken",0.132,0.339,0.529,-0.5994,5.0,6.0,cersei lannister,I will skin him and his bastard like that wretch on that bloody sigil.
+24/05/2015,The Gift,0.32,0.207,0.473,0.2263,5.0,7.0,sansa stark,"But you're a bastard, a true born will always have the stronger claim."
+24/05/2015,The Gift,0.0,0.538,0.462,-0.5423,5.0,7.0,sansa stark,Tommen Baratheon. Another bastard.
+24/05/2015,The Gift,0.078,0.234,0.688,-0.7184,5.0,7.0,ramsay bolton,"Bastards can rise high in the world. Like your half-brother Jon Snow. Born The Bastard of Winterfell, now the Lord Commander of the Night's Watch."
+24/05/2015,The Gift,0.078,0.234,0.688,-0.7184,5.0,7.0,ramsay bolton,"Bastards can rise high in the world. Like your half-brother Jon Snow. Born The Bastard of Winterfell, now the Lord Commander of the Night's Watch."
+24/05/2015,The Gift,0.078,0.234,0.688,-0.7184,5.0,7.0,ramsay bolton,"Bastards can rise high in the world. Like your half-brother Jon Snow. Born The Bastard of Winterfell, now the Lord Commander of the Night's Watch."
+24/05/2015,The Gift,0.078,0.234,0.688,-0.7184,5.0,7.0,ramsay bolton,"Bastards can rise high in the world. Like your half-brother Jon Snow. Born The Bastard of Winterfell, now the Lord Commander of the Night's Watch."
+24/05/2015,The Gift,0.363,0.0,0.637,0.431,5.0,7.0,stannis baratheon,We don't have Robert's bastard here.
+24/05/2015,The Gift,0.0,0.247,0.753,-0.3875,5.0,7.0,derryk,Roll over. Jon Snow's not here to save you.
+24/05/2015,The Gift,0.0,0.247,0.753,-0.3875,5.0,7.0,derryk,Roll over. Jon Snow's not here to save you.
+31/05/2015,Hardhome,0.0,0.233,0.767,-0.8131,5.0,8.0,sam,"Jon's taking a risk, but he has to. We don't stand a chance otherwise. Sometimes a man has to make hard choices, choices that might look wrong to others but you know are right in the long run."
+31/05/2015,Hardhome,0.128,0.128,0.744,0.0015,5.0,8.0,sam,Try not to worry Olly. I've been worrying about Jon for years. He always comes back.
+31/05/2015,Hardhome,0.452,0.0,0.548,0.5106,5.0,8.0,tormund,You trust me Jon Snow?
+31/05/2015,Hardhome,0.452,0.0,0.548,0.5106,5.0,8.0,tormund,You trust me Jon Snow?
+31/05/2015,Hardhome,0.155,0.121,0.723,0.2244,5.0,8.0,tormund,"None of you saw Mance die! I did. The Southern King who broke our army, Stannis, wanted to burn him alive to send him a message. Jon Snow defied that cunt's orders. His arrow was mercy. What it did took courage, and that's what we need today"
+31/05/2015,Hardhome,0.155,0.121,0.723,0.2244,5.0,8.0,tormund,"None of you saw Mance die! I did. The Southern King who broke our army, Stannis, wanted to burn him alive to send him a message. Jon Snow defied that cunt's orders. His arrow was mercy. What it did took courage, and that's what we need today"
+31/05/2015,Hardhome,0.099,0.212,0.69,-0.5106,5.0,8.0,wildling elder,I'm with Tormund. We stay here we're dead men. At least with King Crow there's a chance.
+31/05/2015,Hardhome,0.025,0.181,0.794,-0.8519,5.0,8.0,loboda,"Keep that new life you want to give us. Keep your glass, King Crow. Soon as you get on his ships they're gonna slit your throats and dump your bodies to the bottom of the Shivering Sea. That's our enemy. That has always been our enemy."
+07/06/2015,The Dance of Dragons,0.167,0.259,0.575,-0.3818,5.0,9.0,alliser,"You have a good heart, Jon Snow. It will get us all killed."
+07/06/2015,The Dance of Dragons,0.167,0.259,0.575,-0.3818,5.0,9.0,alliser,"You have a good heart, Jon Snow. It will get us all killed."
+07/06/2015,The Dance of Dragons,0.078,0.077,0.845,-0.2349,5.0,9.0,stannis baratheon,"And if Jon Snow refuses a boy with a scroll, what does the boy say? I didn't name you hand for your expertise in military matters, ride for Castle Black, don't come back empty handed."
+07/06/2015,The Dance of Dragons,0.078,0.077,0.845,-0.2349,5.0,9.0,stannis baratheon,"And if Jon Snow refuses a boy with a scroll, what does the boy say? I didn't name you hand for your expertise in military matters, ride for Castle Black, don't come back empty handed."
+14/06/2015,Mother’s Mercy,0.0,0.16,0.84,-0.6124,5.0,10.0,sparrow,There are those who say your children were not fathered by King Robert. That they are bastards born of incest and adultery.
+24/04/2015,The Red Woman,0.0,0.323,0.677,-0.6486,6.0,1.0,alliser thorne,You all know why you're here Jon Snow is dead
+24/04/2015,The Red Woman,0.0,0.323,0.677,-0.6486,6.0,1.0,alliser thorne,You all know why you're here Jon Snow is dead
+24/04/2015,The Red Woman,0.061,0.186,0.753,-0.9584,6.0,1.0,alliser thorne,"We've committed treason, all of us Jon Snow was my Lord Commander I had no love for him That was no secret But I never once disobeyed an order Loyalty is the foundation on which the Night's Watch is built, and the Watch means everything to me I have given my life, we have all given our lives to the Night's Watch Jon Snow was going to destroy the Night's Watch He let the wildlings through our gates, as no Lord Commander has ever done before He gave them the very land on which they reaved and raped and murdered Lord Commander Snow did what he thought was right, I've no doubt about that And what he thought was right would have been the end of us He thrust a terrible choice upon us, and we made it"
+24/04/2015,The Red Woman,0.061,0.186,0.753,-0.9584,6.0,1.0,alliser thorne,"We've committed treason, all of us Jon Snow was my Lord Commander I had no love for him That was no secret But I never once disobeyed an order Loyalty is the foundation on which the Night's Watch is built, and the Watch means everything to me I have given my life, we have all given our lives to the Night's Watch Jon Snow was going to destroy the Night's Watch He let the wildlings through our gates, as no Lord Commander has ever done before He gave them the very land on which they reaved and raped and murdered Lord Commander Snow did what he thought was right, I've no doubt about that And what he thought was right would have been the end of us He thrust a terrible choice upon us, and we made it"
+24/04/2015,The Red Woman,0.194,0.215,0.592,-0.1601,6.0,1.0,dolorous edd,"I don't care who's sitting at the high table Jon was my friend, and those fuckers butchered him Now we return the favor"
+24/04/2015,The Red Woman,0.0,0.0,1.0,0.0,6.0,1.0,davos,You're not the only ones who owe your lives to Jon Snow
+24/04/2015,The Red Woman,0.0,0.0,1.0,0.0,6.0,1.0,davos,You're not the only ones who owe your lives to Jon Snow
+24/04/2015,The Red Woman,0.153,0.0,0.847,0.4019,6.0,1.0,theon greyjoy,"You will Go north, only north Jon is Lord Commander at Castle Black He'll help you"
+01/05/2016,Home,0.0,0.412,0.588,-0.5423,6.0,2.0,roose,"Jon Snow is a bastard, not a Stark"
+01/05/2016,Home,0.0,0.412,0.588,-0.5423,6.0,2.0,roose,"Jon Snow is a bastard, not a Stark"
+01/05/2016,Home,0.0,0.412,0.588,-0.5423,6.0,2.0,roose,"Jon Snow is a bastard, not a Stark"
+01/05/2016,Home,0.0,0.2,0.8,-0.8402,6.0,2.0,ramsay bolton,"Castle Black isn't defended on the southern side And the few men left are barely men at all. Farm boys and thieves With a small force we could storm the castle, kill Jon Snow --"
+01/05/2016,Home,0.0,0.2,0.8,-0.8402,6.0,2.0,ramsay bolton,"Castle Black isn't defended on the southern side And the few men left are barely men at all. Farm boys and thieves With a small force we could storm the castle, kill Jon Snow --"
+01/05/2016,Home,0.0,0.0,1.0,0.0,6.0,2.0,sansa stark,"We just have to make it to Castle Black Once we're with Jon, Ramsay won't be able to touch us"
+01/05/2016,Home,0.0,0.31,0.69,-0.6705,6.0,2.0,theon greyjoy,Jon will have me killed the moment I step through the gate
+08/05/2016,Oathbreaker,0.137,0.0,0.863,0.4019,6.0,3.0,sam tarly,The Citadel isn't Castle Black I don't have a Jon Snow or a Maester Aemon to help me bend the rules
+08/05/2016,Oathbreaker,0.137,0.0,0.863,0.4019,6.0,3.0,sam tarly,The Citadel isn't Castle Black I don't have a Jon Snow or a Maester Aemon to help me bend the rules
+08/05/2016,Oathbreaker,0.313,0.0,0.687,0.8548,6.0,3.0,sam tarly,I said that because I want you and Little Same to be safe That's all I want -- to become a maester so I can help Jon when the time comes so you'll be safe
+08/05/2016,Oathbreaker,0.0,0.419,0.581,-0.5574,6.0,3.0,arya stark,"Rob, Bran, Rickon And a half-brother, Jon"
+08/05/2016,Oathbreaker,0.04,0.23,0.73,-0.9001,6.0,3.0,smalljon,"The bastard Jon Snow led an army of wildlings past the Wall We're farther north than any of you fuckers Wildlings come down, we always have to fight them first I like fighting wildlings, been doing it all my life But there are too many of them for us to beat back alone"
+08/05/2016,Oathbreaker,0.04,0.23,0.73,-0.9001,6.0,3.0,smalljon,"The bastard Jon Snow led an army of wildlings past the Wall We're farther north than any of you fuckers Wildlings come down, we always have to fight them first I like fighting wildlings, been doing it all my life But there are too many of them for us to beat back alone"
+08/05/2016,Oathbreaker,0.04,0.23,0.73,-0.9001,6.0,3.0,smalljon,"The bastard Jon Snow led an army of wildlings past the Wall We're farther north than any of you fuckers Wildlings come down, we always have to fight them first I like fighting wildlings, been doing it all my life But there are too many of them for us to beat back alone"
+08/05/2016,Oathbreaker,0.153,0.0,0.847,0.4404,6.0,3.0,smalljon,"If they get Jon Snow leading them, maybe He knows this place better than we ever will"
+08/05/2016,Oathbreaker,0.153,0.0,0.847,0.4404,6.0,3.0,smalljon,"If they get Jon Snow leading them, maybe He knows this place better than we ever will"
+08/05/2016,Oathbreaker,0.163,0.267,0.569,-0.4939,6.0,3.0,ramsay bolton,Pledge your banners to House Bolton Swear loyalty to me as Warden of the North and we will fight together to destroy the bastard and all his wildling friends
+08/05/2016,Oathbreaker,0.0,0.492,0.508,-0.8271,6.0,3.0,alliser throne,"I fought, I lost Now I rest But you, Lord Snow, you'll be fighting their battles forever"
+15/05/2016,Book of the Stranger,0.0,0.0,1.0,0.0,6.0,4.0,melisandre,I will do as Jon Snow commands
+15/05/2016,Book of the Stranger,0.0,0.0,1.0,0.0,6.0,4.0,melisandre,I will do as Jon Snow commands
+15/05/2016,Book of the Stranger,0.0,0.0,1.0,0.0,6.0,4.0,davos,You serve Jon Snow now?
+15/05/2016,Book of the Stranger,0.0,0.0,1.0,0.0,6.0,4.0,davos,You serve Jon Snow now?
+15/05/2016,Book of the Stranger,0.076,0.195,0.728,-0.8481,6.0,4.0,sansa stark,"JON SNOW, BRIENNE, TORMUND, and DOLOROUS EDD are eating at a table. SANSA looks at the meat on her fork. JON SNOW, DOLOROUS EDD, and TORMUND eat vigorously. BRIENNE looks around at the men eating. TORMUND stares intently at BRIENNE. BRIENNE looks away. TORMUND smiles. DOLOROUS EDD notices their interaction."
+15/05/2016,Book of the Stranger,0.076,0.195,0.728,-0.8481,6.0,4.0,sansa stark,"JON SNOW, BRIENNE, TORMUND, and DOLOROUS EDD are eating at a table. SANSA looks at the meat on her fork. JON SNOW, DOLOROUS EDD, and TORMUND eat vigorously. BRIENNE looks around at the men eating. TORMUND stares intently at BRIENNE. BRIENNE looks away. TORMUND smiles. DOLOROUS EDD notices their interaction."
+22/05/2016,The Door,0.162,0.17,0.668,-0.2103,6.0,5.0,davos,"They may well be loyal, but how many rose up against the Boltons when they betrayed your family? I may not know the North, but I know men. They're more or less the same in any corner of the world and even the bravest of them don't want to see their wives and children skinned for a lost cause. If Jon's going to convince them to fight alongside him, they need to believe it's a fight they can win."
+22/05/2016,The Door,0.19,0.0,0.81,0.2755,6.0,5.0,davos,I don't doubt it. But Jon doesn't have the Stark name.
+22/05/2016,The Door,0.0,0.0,1.0,0.0,6.0,5.0,sansa stark,"Jon is every bit as much Ned Stark's son as Ramsay is Roose Bolton's. Ant there are also the Tullys. They're not Northern, but they will back us against the Boltons without question."
+22/05/2016,The Door,0.0,0.0,1.0,0.0,6.0,5.0,sansa stark,With Jon?
+22/05/2016,The Door,0.241,0.0,0.759,0.743,6.0,5.0,sansa stark,"Jon isn't Tormund. Jon isn't Davos, the Red Woman, or Stannis for that matter. Jon is Jon. He's my brother. He'll keep me safe. I trust him."
+29/05/2016,Blood of My Blood,0.288,0.0,0.712,0.8173,6.0,6.0,sam,"Rabbits. Sometimes squirrels. I say “we,” it's my friend Jon mostly. Sometimes Edd. Oh, and Gilly. She's- - she's quite a good hunter as well. Um, huntress."
+29/05/2016,Blood of My Blood,0.063,0.125,0.812,-0.8738,6.0,6.0,randyll,"It's called Heartsbane. It's been in our family for 500 years. It's Valyrian steel. Only a handful of them left in the world. It's supposed to go to my firstborn son after I die. To him. He will never wield that sword. If he were to become Lord Tarly of Horn Hill, it would be the end of this house. I took you for a Mole's Town whore when I saw you and I made my peace with that. Who else would have him? But I overestimated him. No. It was a wildling whore that seduced my son. This you getting back at me, boy? Hmm? Bring that to my table and making me dine with it. And you got what you were after, didn't you? A bastard. A half-breed bastard. Your invitation into our home."
+29/05/2016,Blood of My Blood,0.085,0.123,0.792,-0.4226,6.0,6.0,randyll,"Your mother's a fine woman. You're not worthy of her. To please her, I'll take the wildling in. She can work in the kitchens. The bastard will be raised here. But this will be the last night you ever spend at Horn Hill."
+29/05/2016,Blood of My Blood,0.0,0.133,0.867,-0.3182,6.0,6.0,bran stark,Uncle Benjen. The last letter Jon wrote me said you had been lost beyond the Wall.
+05/06/2016,The Broken Man,0.0,0.222,0.778,-0.8741,6.0,7.0,dim dalba,"We said we'd fight with you, King Crow, when the time comes and we meant it, but this isn't what we agreed to. These aren't White Walkers. This isn't an army of the dead. This isn't our find."
+05/06/2016,The Broken Man,0.088,0.2,0.713,-0.891,6.0,7.0,davos,"Your uncle, Lord Commander Mormont, made that man his steward. He chose Jon to be his successor because he knew had the courage to do what was right, even if it meant giving his life. Because Jeor Mormont and Jon Snow both understood that the real war isn't between a few squabbling houses. It's between the living and the dead. And make no mistake, my lady, the dead are coming."
+05/06/2016,The Broken Man,0.088,0.2,0.713,-0.891,6.0,7.0,davos,"Your uncle, Lord Commander Mormont, made that man his steward. He chose Jon to be his successor because he knew had the courage to do what was right, even if it meant giving his life. Because Jeor Mormont and Jon Snow both understood that the real war isn't between a few squabbling houses. It's between the living and the dead. And make no mistake, my lady, the dead are coming."
+19/06/2016,Battle of the Bastards,0.148,0.147,0.704,-0.2263,6.0,9.0,ramsay bolton,"Thank you for returning Lady Bolton safely. Now, dismount and kneel before me, surrender your army and proclaim me the true Lord of Winterfell and Warden of the North. I will pardon you for deserting the Night's Watch. I will pardon these treasonous lords for betraying my house. Come, bastard, you don't have the men, you don't have the horses, and you don't have Winterfell. Why lead those pour souls into slaughter? There's no need for a battle. Get off your hose and kneel. I'm a man of mercy."
+19/06/2016,Battle of the Bastards,0.122,0.057,0.82,0.6072,6.0,9.0,ramsay bolton,"I keep hearing stories about you, bastard. The way people in the North talk about you, you're the greatest swordsman who ever walked. Maybe you are that good. Maybe not. I don't know if I'd beat you. But I know that my army will beat yours. I have 6,000 men. You have, what, half that? Not even?"
+19/06/2016,Battle of the Bastards,0.031,0.104,0.865,-0.6553,6.0,9.0,ramsay bolton,"She's a fine woman, your sister. I look forward to having her back in my bed. And you're all fine-looking men. My dogs are desperate to meet you. I haven't fed them for seven days. They're ravenous. I wonder which parts they'll try first. Your eyes? Your balls? We'll find out soon enough. In the morning, then, bastard."
+19/06/2016,Battle of the Bastards,0.0,0.0,1.0,0.0,6.0,9.0,tormund,stares blankly at JON SNOW.
+19/06/2016,Battle of the Bastards,0.0,0.0,1.0,0.0,6.0,9.0,tormund,stares blankly at JON SNOW.
+19/06/2016,Battle of the Bastards,0.0,0.0,1.0,0.0,6.0,9.0,tormund,"Rest, Jon Snow. We need you sharp tomorrow."
+19/06/2016,Battle of the Bastards,0.0,0.0,1.0,0.0,6.0,9.0,tormund,"Rest, Jon Snow. We need you sharp tomorrow."
+19/06/2016,Battle of the Bastards,0.052,0.143,0.806,-0.6597,6.0,9.0,sansa stark,"We'll never get him back. Rickon is Ned Starks trueborn son, which makes him a greater threat to Ramsay than you, a bastard, or me, a girl. As long as he lives, Ramsay's claim to Winterfell will be contested, which means he won't live long."
+19/06/2016,Battle of the Bastards,0.0,0.0,1.0,0.0,6.0,9.0,tormund,Jon Snow's not a king.
+19/06/2016,Battle of the Bastards,0.0,0.0,1.0,0.0,6.0,9.0,tormund,Jon Snow's not a king.
+19/06/2016,Battle of the Bastards,0.0,0.0,1.0,0.0,6.0,9.0,melisandre,"I am not your servant, Jon Snow."
+19/06/2016,Battle of the Bastards,0.0,0.0,1.0,0.0,6.0,9.0,melisandre,"I am not your servant, Jon Snow."
+19/06/2016,Battle of the Bastards,0.0,0.0,1.0,0.0,6.0,9.0,sansa stark,Jon.
+26/06/2016,The Winds of Winter,0.0,0.22,0.78,-0.4767,6.0,10.0,melisandre,"Could have been worse, Jon Snow. You had a family. You had feasts."
+26/06/2016,The Winds of Winter,0.0,0.22,0.78,-0.4767,6.0,10.0,melisandre,"Could have been worse, Jon Snow. You had a family. You had feasts."
+26/06/2016,The Winds of Winter,0.148,0.0,0.852,0.3818,6.0,10.0,melisandre,We are standing here because of him. Jon Snow is alive because the Lord willed it.
+26/06/2016,The Winds of Winter,0.148,0.0,0.852,0.3818,6.0,10.0,melisandre,We are standing here because of him. Jon Snow is alive because the Lord willed it.
+26/06/2016,The Winds of Winter,0.189,0.224,0.587,-0.6059,6.0,10.0,melisandre,"I've been ready to die for many years. If the Lord was done with me, so be it, but he's not. You've seen the Night King, Jon Snow. You know the great war is still to come. You know the army of the dead will be upon us soon. And you know I can help you win that war."
+26/06/2016,The Winds of Winter,0.189,0.224,0.587,-0.6059,6.0,10.0,melisandre,"I've been ready to die for many years. If the Lord was done with me, so be it, but he's not. You've seen the Night King, Jon Snow. You know the great war is still to come. You know the army of the dead will be upon us soon. And you know I can help you win that war."
+26/06/2016,The Winds of Winter,0.0,0.0,1.0,0.0,6.0,10.0,sansa stark,Jon.
+26/06/2016,The Winds of Winter,0.119,0.102,0.78,0.264,6.0,10.0,petyr,"The past is gone for good. You can sit here mourning its departure or you can prepare for the future. You, my love, are the future of House Stark. Who should the North rally behind? A trueborn daughter of Ned and Catelyn Stark born here at Winterfell or a motherless bastard born in the south?"
+26/06/2016,The Winds of Winter,0.081,0.16,0.758,-0.7901,6.0,10.0,lyanna,"Your son was butchered at the Red Wedding, Lord Manderly. But you refused the call. You swore allegiance to House Stark, Lord Glover, but in their hour of greatest need, you refused the call. And you, Lord Cerwyn, your father was skinned alive by Ramsay Bolton. Still you refuse the call. But House Mormont remembers. The North remembers. We know no king but the King in the North whose name is Stark. I don't care if he's a bastard. Ned Stark's blood runs through his veins. He's my king from this day until his last day."
+26/06/2016,The Winds of Winter,0.084,0.103,0.813,-0.066,6.0,10.0,manderly,"Lady Mormont speaks harshly and truly. My son died for Robb Stark, the Young Wolf. I didn't think we'd find another king in my lifetime. I didn't commit my men to your cause ‘cause I didn't want more Manderlys dying for nothing. But I was wrong. Jon Snow avenged the Red Wedding. He is the White Wolf. The King in the North."
+26/06/2016,The Winds of Winter,0.084,0.103,0.813,-0.066,6.0,10.0,manderly,"Lady Mormont speaks harshly and truly. My son died for Robb Stark, the Young Wolf. I didn't think we'd find another king in my lifetime. I didn't commit my men to your cause ‘cause I didn't want more Manderlys dying for nothing. But I was wrong. Jon Snow avenged the Red Wedding. He is the White Wolf. The King in the North."
+26/06/2016,The Winds of Winter,0.084,0.103,0.813,-0.066,6.0,10.0,manderly,"Lady Mormont speaks harshly and truly. My son died for Robb Stark, the Young Wolf. I didn't think we'd find another king in my lifetime. I didn't commit my men to your cause ‘cause I didn't want more Manderlys dying for nothing. But I was wrong. Jon Snow avenged the Red Wedding. He is the White Wolf. The King in the North."
+26/06/2016,The Winds of Winter,0.0,0.099,0.901,-0.5081,6.0,10.0,glover,There will be more fights to come. House Glover will stand behind House Stark as we have for a thousands years. And I will stand behind Jon Snow… the King in the North!
+26/06/2016,The Winds of Winter,0.0,0.099,0.901,-0.5081,6.0,10.0,glover,There will be more fights to come. House Glover will stand behind House Stark as we have for a thousands years. And I will stand behind Jon Snow… the King in the North!
+16/07/2017,Dragonstone,0.0,0.346,0.654,-0.9612,7.0,1.0,cersei lannister,Enemies to the north. Ned Stark's bastard has been named King in the North and that murdering whore Sansa stands beside him. Enemies everywhere. We're surrounded by traitors. You're in command of the Lannister army now. How do we proceed?
+16/07/2017,Dragonstone,0.109,0.0,0.891,0.296,7.0,1.0,sam,"A mountain of it. Beneath the ground. Stannis told me, but I didn't think... This is important. Jon needs to know."
+23/07/2017,Stormborn,0.102,0.132,0.766,-0.1779,7.0,2.0,melisandre,"Prophecies are dangerous things. I believe you have a role to play, as does another. The King in the North, Jon Snow."
+23/07/2017,Stormborn,0.102,0.132,0.766,-0.1779,7.0,2.0,melisandre,"Prophecies are dangerous things. I believe you have a role to play, as does another. The King in the North, Jon Snow."
+23/07/2017,Stormborn,0.0,0.491,0.509,-0.594,7.0,2.0,tyrion lannister,Jon Snow? Ned Stark's bastard?
+23/07/2017,Stormborn,0.0,0.491,0.509,-0.594,7.0,2.0,tyrion lannister,Jon Snow? Ned Stark's bastard?
+23/07/2017,Stormborn,0.0,0.491,0.509,-0.594,7.0,2.0,tyrion lannister,Jon Snow? Ned Stark's bastard?
+23/07/2017,Stormborn,0.073,0.0,0.927,0.2263,7.0,2.0,varys,"And why do you think the Lord of Light singled out this Jon Snow aside from the visions you've seen in the flames, that is?"
+23/07/2017,Stormborn,0.073,0.0,0.927,0.2263,7.0,2.0,varys,"And why do you think the Lord of Light singled out this Jon Snow aside from the visions you've seen in the flames, that is?"
+23/07/2017,Stormborn,0.0,0.0,1.0,0.0,7.0,2.0,melisandre,"Summon Jon Snow. Let him stand before you and tell you things that have happened to him, the things that he has seen with his own eyes."
+23/07/2017,Stormborn,0.0,0.0,1.0,0.0,7.0,2.0,melisandre,"Summon Jon Snow. Let him stand before you and tell you things that have happened to him, the things that he has seen with his own eyes."
+23/07/2017,Stormborn,0.422,0.0,0.578,0.9313,7.0,2.0,tyrion lannister,"I can't speak to prophecies or visions in the flames, but I like Jon Snow and I trusted him, and I am an excellent judge of character."
+23/07/2017,Stormborn,0.422,0.0,0.578,0.9313,7.0,2.0,tyrion lannister,"I can't speak to prophecies or visions in the flames, but I like Jon Snow and I trusted him, and I am an excellent judge of character."
+23/07/2017,Stormborn,0.072,0.203,0.725,-0.7624,7.0,2.0,tyrion lannister,"If he does rule the north, he would make a valuable ally. The Lannisters executed his father and conspired to murder his brother. Jon Snow has even more reason to hate Cersei than you do."
+23/07/2017,Stormborn,0.072,0.203,0.725,-0.7624,7.0,2.0,tyrion lannister,"If he does rule the north, he would make a valuable ally. The Lannisters executed his father and conspired to murder his brother. Jon Snow has even more reason to hate Cersei than you do."
+23/07/2017,Stormborn,0.112,0.0,0.888,0.3384,7.0,2.0,daenerys targaryen,Very well. Send a raven north. Tell Jon Snow that his Queen invites him to come to Drangonstone...and bend the knee.
+23/07/2017,Stormborn,0.112,0.0,0.888,0.3384,7.0,2.0,daenerys targaryen,Very well. Send a raven north. Tell Jon Snow that his Queen invites him to come to Drangonstone...and bend the knee.
+23/07/2017,Stormborn,0.0,0.267,0.733,-0.6124,7.0,2.0,sansa stark,"All dwarfs are bastards in their father's eyes."" What does that mean?"
+23/07/2017,Stormborn,0.0,0.0,1.0,0.0,7.0,2.0,sansa stark,You're not suggesting Jon meet with her?
+23/07/2017,Stormborn,0.122,0.218,0.66,-0.4404,7.0,2.0,hot pie,Jon Snow came down from Castle Black with a Wildling army and won the Battle of the Bastards. He's King in the North now.
+23/07/2017,Stormborn,0.122,0.218,0.66,-0.4404,7.0,2.0,hot pie,Jon Snow came down from Castle Black with a Wildling army and won the Battle of the Bastards. He's King in the North now.
+23/07/2017,Stormborn,0.122,0.218,0.66,-0.4404,7.0,2.0,hot pie,Jon Snow came down from Castle Black with a Wildling army and won the Battle of the Bastards. He's King in the North now.
+30/07/2017,The Queen’s Justice,0.0,0.538,0.462,-0.5423,7.0,3.0,tyrion lannister,The bastard of Winterfell.
+30/07/2017,The Queen’s Justice,0.0,0.538,0.462,-0.5423,7.0,3.0,tyrion lannister,The bastard of Winterfell.
+30/07/2017,The Queen’s Justice,0.0,0.195,0.805,-0.3818,7.0,3.0,varys,Strange. You spoke so highly of Jon Snow but when he arrives you hide on a cliff. I didn't take you for a bashful girl.
+30/07/2017,The Queen’s Justice,0.0,0.195,0.805,-0.3818,7.0,3.0,varys,Strange. You spoke so highly of Jon Snow but when he arrives you hide on a cliff. I didn't take you for a bashful girl.
+30/07/2017,The Queen’s Justice,0.0,0.0,1.0,0.0,7.0,3.0,davos,This is Jon Snow.
+30/07/2017,The Queen’s Justice,0.0,0.0,1.0,0.0,7.0,3.0,davos,This is Jon Snow.
+30/07/2017,The Queen’s Justice,0.135,0.0,0.865,0.4215,7.0,3.0,davos,"Apologies. I have a Flea Bottom accent, I know. But Jon Snow is King in the North, Your Grace. He's not a lord."
+30/07/2017,The Queen’s Justice,0.135,0.0,0.865,0.4215,7.0,3.0,davos,"Apologies. I have a Flea Bottom accent, I know. But Jon Snow is King in the North, Your Grace. He's not a lord."
+30/07/2017,The Queen’s Justice,0.142,0.084,0.774,0.7506,7.0,3.0,daenerys targaryen,"My father was an evil man. On behalf of House Targaryen I ask your forgiveness for the crimes he committed against your family. And I ask you not to judge a daughter by the sins of her father. Our two houses were allies for centuries. Those were the best centuries the kingdom's ever known. Centuries of peace and prosperity with the Targaryens sitting on the Iron Throne and a Stark serving as Warden of the North. I am the last Targaryen, Jon Snow. Honor the pledge your ancestor made to mine. Bend the knee and I will name you Warden of the North. Together we will save this country from those who would destroy it."
+30/07/2017,The Queen’s Justice,0.142,0.084,0.774,0.7506,7.0,3.0,daenerys targaryen,"My father was an evil man. On behalf of House Targaryen I ask your forgiveness for the crimes he committed against your family. And I ask you not to judge a daughter by the sins of her father. Our two houses were allies for centuries. Those were the best centuries the kingdom's ever known. Centuries of peace and prosperity with the Targaryens sitting on the Iron Throne and a Stark serving as Warden of the North. I am the last Targaryen, Jon Snow. Honor the pledge your ancestor made to mine. Bend the knee and I will name you Warden of the North. Together we will save this country from those who would destroy it."
+30/07/2017,The Queen’s Justice,0.0,0.146,0.854,-0.9136,7.0,3.0,davos,"But if destiny has brough Daenerys Targaryen back to our shores, it has also made Jon Snow King in the North. You were the first to bring Dothraki to Westeros. He was the first to make allies with Wildlings and northmen. He was named Lord Commander of the Night's Watch. He was named King in the North. Not because of his birthright. He has no birthright. He's a damn bastard. All those hard son's of bitches chose him as their leader because they believe in him."
+30/07/2017,The Queen’s Justice,0.0,0.146,0.854,-0.9136,7.0,3.0,davos,"But if destiny has brough Daenerys Targaryen back to our shores, it has also made Jon Snow King in the North. You were the first to bring Dothraki to Westeros. He was the first to make allies with Wildlings and northmen. He was named Lord Commander of the Night's Watch. He was named King in the North. Not because of his birthright. He has no birthright. He's a damn bastard. All those hard son's of bitches chose him as their leader because they believe in him."
+30/07/2017,The Queen’s Justice,0.0,0.146,0.854,-0.9136,7.0,3.0,davos,"But if destiny has brough Daenerys Targaryen back to our shores, it has also made Jon Snow King in the North. You were the first to bring Dothraki to Westeros. He was the first to make allies with Wildlings and northmen. He was named Lord Commander of the Night's Watch. He was named King in the North. Not because of his birthright. He has no birthright. He's a damn bastard. All those hard son's of bitches chose him as their leader because they believe in him."
+30/07/2017,The Queen’s Justice,0.0,0.0,1.0,0.0,7.0,3.0,tyrion lannister,"Which is why I was speaking to Jon Snow, a potential ally."
+30/07/2017,The Queen’s Justice,0.0,0.0,1.0,0.0,7.0,3.0,tyrion lannister,"Which is why I was speaking to Jon Snow, a potential ally."
+30/07/2017,The Queen’s Justice,0.217,0.059,0.724,0.664,7.0,3.0,tyrion lannister,"I'd very much like to believe that Jon Snow is wrong, but a wise man once said that you should never believe a thing simply because you want to believe it."
+30/07/2017,The Queen’s Justice,0.217,0.059,0.724,0.664,7.0,3.0,tyrion lannister,"I'd very much like to believe that Jon Snow is wrong, but a wise man once said that you should never believe a thing simply because you want to believe it."
+30/07/2017,The Queen’s Justice,0.056,0.06,0.884,-0.1027,7.0,3.0,tyrion lannister,"I would never do that...to you. The reason I believe Jon Snow is because he's here. All of his advisors would have told him not to come. I would have told him not to come, yet he's here anyway. You don't have to believe him. Let him mine the Dragonglass. If he's wrong it's worthless. You didn't even know it was here. It's nothing to you. Give him something by giving him nothing. Take a step toward a more productive relationship with a possible ally. Keep him occupied while we focus on the task at hand. Casterly Rock."
+30/07/2017,The Queen’s Justice,0.056,0.06,0.884,-0.1027,7.0,3.0,tyrion lannister,"I would never do that...to you. The reason I believe Jon Snow is because he's here. All of his advisors would have told him not to come. I would have told him not to come, yet he's here anyway. You don't have to believe him. Let him mine the Dragonglass. If he's wrong it's worthless. You didn't even know it was here. It's nothing to you. Give him something by giving him nothing. Take a step toward a more productive relationship with a possible ally. Keep him occupied while we focus on the task at hand. Casterly Rock."
+30/07/2017,The Queen’s Justice,0.326,0.0,0.674,0.4404,7.0,3.0,daenerys targaryen,"You better get to work, Jon Snow."
+30/07/2017,The Queen’s Justice,0.326,0.0,0.674,0.4404,7.0,3.0,daenerys targaryen,"You better get to work, Jon Snow."
+30/07/2017,The Queen’s Justice,0.474,0.0,0.526,0.4019,7.0,3.0,sansa stark,I wish Jon was here.
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,arya stark,"Go ask Jon Snow then, the King in the North. He's my brother"
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,arya stark,"Go ask Jon Snow then, the King in the North. He's my brother"
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,arya stark,If Jon Snow is gone who is in charge of Winterfell?
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,arya stark,If Jon Snow is gone who is in charge of Winterfell?
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,arya stark,"It suits you, Lady Stark. Jon left you in charge?"
+06/08/2017,The Spoils Of War,0.039,0.0,0.961,0.0258,7.0,4.0,daenerys targaryen,descends the stairs with MISSANDEI and they begin walking with JON. They walk along the beach until they reach a cave. DAVOS is waiting for them with a lit torch.
+06/08/2017,The Spoils Of War,0.0,0.045,0.955,-0.1531,7.0,4.0,daenerys targaryen,stops looking at the walls and turns to look at JON. JON walks to another wall and begins to examine the murals. The murals depict Children of the Forest and the First Men standing together.
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,daenerys targaryen,turns to look at JON.
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,daenerys targaryen,steps forward closer to JON.
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,daenerys targaryen,steps even closer to JON until they're face to face.
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,daenerys targaryen,looks over to JON SNOW.
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,daenerys targaryen,looks over to JON SNOW.
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,daenerys targaryen,begins walking close to JON.
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,davos,and JON near the end of the path. MISSANDEI is standing along the path looking at the ocean.
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,missandei,turns to looks at DAVOS and JON.
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,missandei,"Ser Davos, Lord Snow."
+06/08/2017,The Spoils Of War,0.195,0.0,0.805,0.3459,7.0,4.0,davos,"King Snow, isn't it? No? That doesn't sound right. King Jon?"
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,missandei,"Your name is Jon Snow, but your father's name was Ned Stark?"
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,missandei,"Your name is Jon Snow, but your father's name was Ned Stark?"
+06/08/2017,The Spoils Of War,0.0,0.226,0.774,-0.5423,7.0,4.0,missandei,We don't have marriage in Naarth so the concept of a bastard doesn't exist.
+06/08/2017,The Spoils Of War,0.023,0.0,0.977,0.0516,7.0,4.0,theon greyjoy,"GREYJOY and other Iron Born are pulling their landing boat onto the beach wading through the surf. They pull the boat onto the sand. JON SNOW, MISSANDEI, DAVOS and Dothraki guards are waiting to meet them. JON sees THEON and both men freeze and stare at each other. JON steps forward towards THEON."
+06/08/2017,The Spoils Of War,0.023,0.0,0.977,0.0516,7.0,4.0,theon greyjoy,"GREYJOY and other Iron Born are pulling their landing boat onto the beach wading through the surf. They pull the boat onto the sand. JON SNOW, MISSANDEI, DAVOS and Dothraki guards are waiting to meet them. JON sees THEON and both men freeze and stare at each other. JON steps forward towards THEON."
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,theon greyjoy,Jon. I didn't know you were here.
+06/08/2017,The Spoils Of War,0.0,0.0,1.0,0.0,7.0,4.0,theon greyjoy,steps closer to JON.
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,daenerys targaryen,turns back to JON.
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,daenerys targaryen,"turns and starts walking towards the castle, JON follows."
+13/08/2017,Eastwatch,0.262,0.0,0.738,0.4939,7.0,5.0,daenerys targaryen,"Jon Snow, this is Ser Jorah Mormont, an old friend."
+13/08/2017,Eastwatch,0.262,0.0,0.738,0.4939,7.0,5.0,daenerys targaryen,"Jon Snow, this is Ser Jorah Mormont, an old friend."
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,jorah mormont,nods to JON.
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,varys,Jon Snow.
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,varys,Jon Snow.
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,daenerys targaryen,and VARYS are seated at the painted table. TYRION and JORAH stand near the queen. DAVOS and JON SNOW are standing on the other end of the table. JON is holding a raven scroll and reading it.
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,daenerys targaryen,and VARYS are seated at the painted table. TYRION and JORAH stand near the queen. DAVOS and JON SNOW are standing on the other end of the table. JON is holding a raven scroll and reading it.
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,tyrion lannister,begins walking around the table closer to JON.
+13/08/2017,Eastwatch,0.337,0.0,0.663,0.846,7.0,5.0,sansa stark,"You're very kind, my lords, but Jon is our king. He is doing what he thinks is best."
+13/08/2017,Eastwatch,0.14,0.169,0.691,-0.1906,7.0,5.0,sansa stark,I warned Jon this would happen. He can't leave the north and expect it to just sit and wait for him like Ghost.
+13/08/2017,Eastwatch,0.0,0.262,0.738,-0.4939,7.0,5.0,arya stark,They were insulting Jon and you sat there and listened.
+13/08/2017,Eastwatch,0.0,0.273,0.727,-0.5423,7.0,5.0,sansa stark,"Glover has 500 men. Royce has 2,000. Offend them and Jon loses his army."
+13/08/2017,Eastwatch,0.177,0.0,0.823,0.5095,7.0,5.0,arya stark,"And if Jon doesn't come back, you'll need their support, so you can work together to give you what you really want."
+13/08/2017,Eastwatch,0.0,0.415,0.585,-0.8316,7.0,5.0,davos,He doesn't need to be thinking about harboring the bastard of a dead king.
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,davos,and GENDRY enter the mouth of the cave. JON is walking along the corridor.
+13/08/2017,Eastwatch,0.196,0.245,0.559,-0.1779,7.0,5.0,gendry baratheon,"It's Gendry, Your Grace. I'm Robert Baratheon's son. Bastard son."
+13/08/2017,Eastwatch,0.172,0.0,0.828,0.7717,7.0,5.0,daenerys targaryen,"reaches forward and takes JORAH by his hands. JON SNOW, DAVOS and GENDRY exit the cave and walk towards the boats. JORAH bends and kisses DAENERY's hand. He turns and continues readying the boat. JON stands in front of DAENERYS."
+13/08/2017,Eastwatch,0.172,0.0,0.828,0.7717,7.0,5.0,daenerys targaryen,"reaches forward and takes JORAH by his hands. JON SNOW, DAVOS and GENDRY exit the cave and walk towards the boats. JORAH bends and kisses DAENERY's hand. He turns and continues readying the boat. JON stands in front of DAENERYS."
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,daenerys targaryen,nods to JON. JON turns and walks to the head of the boat. The men take hold of it.
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,tormund,"JON, DAVOS, GENDRY, and JORAH sit at a table having a conversation."
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,tormund,turns to look at JON.
+13/08/2017,Eastwatch,0.0,0.0,1.0,0.0,7.0,5.0,tormund,hands the cell keys to JON. JON opens the door and let the men out.
+20/08/2017,Beyond the Wall,0.0,0.0,1.0,0.0,7.0,6.0,gendry baratheon,faces JON and grunts.
+20/08/2017,Beyond the Wall,0.0,0.0,1.0,0.0,7.0,6.0,tormund,turns to look at JON and GENDRY.
+20/08/2017,Beyond the Wall,0.0,0.0,1.0,0.0,7.0,6.0,tormund,looks at JON as they continue to walk.
+20/08/2017,Beyond the Wall,0.0,0.0,1.0,0.0,7.0,6.0,jorah mormont,and JON glance at each other.
+20/08/2017,Beyond the Wall,0.0,0.167,0.833,-0.1531,7.0,6.0,jorah mormont,stops examining the sword and looks up to JON.
+20/08/2017,Beyond the Wall,0.0,0.0,1.0,0.0,7.0,6.0,jorah mormont,"pauses, then nods at JON."
+20/08/2017,Beyond the Wall,0.0,0.0,1.0,0.0,7.0,6.0,jorah mormont,resheaths the blade and hands it back to JON.
+20/08/2017,Beyond the Wall,0.053,0.254,0.692,-0.9177,7.0,6.0,sansa stark,"You should be on your knees thanking me. We're standing in Winterfell again because of me. You didn't win it back. Jon didn't win it back. He lost the Battle of the Bastards. The Knight's of the Vale won the battle and they rode north for me while you were off where, traveling the world?"
+20/08/2017,Beyond the Wall,0.053,0.254,0.692,-0.9177,7.0,6.0,sansa stark,"You should be on your knees thanking me. We're standing in Winterfell again because of me. You didn't win it back. Jon didn't win it back. He lost the Battle of the Bastards. The Knight's of the Vale won the battle and they rode north for me while you were off where, traveling the world?"
+20/08/2017,Beyond the Wall,0.0,0.406,0.594,-0.9375,7.0,6.0,arya stark,Are you scared I'll show it to Jon and he'll be angry? No. That's not Jon. He'll understand. You were just a scared little girl all alone with the wicked Lannisters.
+20/08/2017,Beyond the Wall,0.214,0.179,0.608,0.3975,7.0,6.0,daenerys targaryen,"I don't want you to be a hero. Heroes do stupid things and they die. Drogo, Jorah, Dario, even this Jon Snow, they all try to outdo each other of who can do the stupidist, bravest thing."
+20/08/2017,Beyond the Wall,0.214,0.179,0.608,0.3975,7.0,6.0,daenerys targaryen,"I don't want you to be a hero. Heroes do stupid things and they die. Drogo, Jorah, Dario, even this Jon Snow, they all try to outdo each other of who can do the stupidist, bravest thing."
+20/08/2017,Beyond the Wall,0.375,0.0,0.625,0.8807,7.0,6.0,tyrion lannister,"It's interesting these heroes you name. Drogo, Jorah, Dario, even this Jon Snow, they all fell in love with you."
+20/08/2017,Beyond the Wall,0.375,0.0,0.625,0.8807,7.0,6.0,tyrion lannister,"It's interesting these heroes you name. Drogo, Jorah, Dario, even this Jon Snow, they all fell in love with you."
+20/08/2017,Beyond the Wall,0.0,0.36,0.64,-0.5216,7.0,6.0,daenerys targaryen,Jon Snow's not in love with me.
+20/08/2017,Beyond the Wall,0.0,0.36,0.64,-0.5216,7.0,6.0,daenerys targaryen,Jon Snow's not in love with me.
+27/08/2017,The Dragon and the Wolf,0.0,0.502,0.498,-0.9442,7.0,7.0,cersei lannister,"If anything goes wrong, kill the silver-haired bitch first, then our brother, then the bastard who calls himself king."
+27/08/2017,The Dragon and the Wolf,0.195,0.0,0.805,0.4404,7.0,7.0,cersei lannister,What did you hope for? To make Jon Snow submit to your queen.
+27/08/2017,The Dragon and the Wolf,0.195,0.0,0.805,0.4404,7.0,7.0,cersei lannister,What did you hope for? To make Jon Snow submit to your queen.
+27/08/2017,The Dragon and the Wolf,0.0,0.131,0.869,-0.3412,7.0,7.0,petyr baelish,It's not easy for ravens to fly in these storms. Perhaps Jon tried to send word earlier.
+27/08/2017,The Dragon and the Wolf,0.0,0.0,1.0,0.0,7.0,7.0,petyr baelish,Jon is young and unmarried. Daenerys is young and unmarried.
+27/08/2017,The Dragon and the Wolf,0.193,0.215,0.593,-0.2263,7.0,7.0,sansa stark,"Even if I wanted to, Arya would never go along. She always loved Jon far more than she ever loved me, and she'd kill anyone who betrayed her family."
+27/08/2017,The Dragon and the Wolf,0.0,0.0,1.0,0.0,7.0,7.0,theon greyjoy,Jon.
+27/08/2017,The Dragon and the Wolf,0.0,0.251,0.749,-0.6908,7.0,7.0,sansa stark,"You did it to take power in the Vale. Earlier, you conspired to murder Jon."
+27/08/2017,The Dragon and the Wolf,0.0,0.206,0.794,-0.6597,7.0,7.0,sansa stark,You had Aunt Lysa send a letter to our parents telling them it was the Lannisters who murdered Jon.
+27/08/2017,The Dragon and the Wolf,0.129,0.201,0.67,-0.5362,7.0,7.0,sam,"Um, Jon's the one to lead the fight against the dead. I know he is. But he can't do it alone, so I've come here to help him."
+27/08/2017,The Dragon and the Wolf,0.0,0.127,0.873,-0.296,7.0,7.0,bran stark,About himself. No one knows. No one but me. Jon isn't really my father's son He's the son of Rhaegar Targaryen and my aunt.
+27/08/2017,The Dragon and the Wolf,0.0,0.5,0.5,-0.6124,7.0,7.0,bran stark,Dornish bastards are named Sand.
+27/08/2017,The Dragon and the Wolf,0.0,0.0,1.0,0.0,7.0,7.0,bran stark,And Jon - Jon's real name.
+27/08/2017,The Dragon and the Wolf,0.487,0.0,0.513,0.431,7.0,7.0,bran stark,He's never been a bastard.
+14/04/2019,Winterfell,0.199,0.122,0.678,0.7003,8.0,1.0,tyrion lannister,"If anyone survives the war to come, we'll have Jon Snow to thank. He risked his life to show us the threat is real. Thanks to his courage, we have brought with us the greatest army the world has ever seen. We have brought two full-grown dragons. And soon, the Lannister army will ride north to join our cause."
+14/04/2019,Winterfell,0.199,0.122,0.678,0.7003,8.0,1.0,tyrion lannister,"If anyone survives the war to come, we'll have Jon Snow to thank. He risked his life to show us the threat is real. Thanks to his courage, we have brought with us the greatest army the world has ever seen. We have brought two full-grown dragons. And soon, the Lannister army will ride north to join our cause."
+14/04/2019,Winterfell,0.0,0.744,0.256,-0.8658,8.0,1.0,yara greyjoy,But kill the bastards anyway.
+14/04/2019,Winterfell,0.129,0.096,0.775,0.2263,8.0,1.0,davos,"Not so long ago, the Starks and the Karstarks were slaughtering each other on the battlefield. Jon Snow brought peace to the houses."
+14/04/2019,Winterfell,0.129,0.096,0.775,0.2263,8.0,1.0,davos,"Not so long ago, the Starks and the Karstarks were slaughtering each other on the battlefield. Jon Snow brought peace to the houses."
+14/04/2019,Winterfell,0.289,0.053,0.658,0.9413,8.0,1.0,davos,"Her gratitude is lovely, but that's not my point. The Northmen are loyal to Jon Snow, not to her. They don't know her. The Free Folk don't know her. I've been up here a while, and I'm telling you, they're stubborn as goats. You want their loyalty, you have to earn it."
+14/04/2019,Winterfell,0.289,0.053,0.658,0.9413,8.0,1.0,davos,"Her gratitude is lovely, but that's not my point. The Northmen are loyal to Jon Snow, not to her. They don't know her. The Free Folk don't know her. I've been up here a while, and I'm telling you, they're stubborn as goats. You want their loyalty, you have to earn it."
+14/04/2019,Winterfell,0.0,0.223,0.777,-0.4063,8.0,1.0,varys,You overestimate our influence. Jon and Daenerys don't want to listen to lonely old men.
+14/04/2019,Winterfell,0.355,0.0,0.645,0.5106,8.0,1.0,daenerys targaryen,"Then I've enjoyed your company, Jon Snow."
+14/04/2019,Winterfell,0.355,0.0,0.645,0.5106,8.0,1.0,daenerys targaryen,"Then I've enjoyed your company, Jon Snow."
+14/04/2019,Winterfell,0.0,0.0,1.0,0.0,8.0,1.0,sansa stark,"I will stand behind Jon Snow,"" he said."
+14/04/2019,Winterfell,0.0,0.0,1.0,0.0,8.0,1.0,sansa stark,"I will stand behind Jon Snow,"" he said."
+14/04/2019,Winterfell,0.355,0.0,0.645,0.6705,8.0,1.0,bran stark,"Waiting, for an old friend. It's time to tell Jon the truth."
+14/04/2019,Winterfell,0.166,0.038,0.795,0.6542,8.0,1.0,sam tarly,"And your father- your real father was Rhaegar Targaryen. You've never been a bastard. You're Aegon Targaryen, true heir to the Iron Throne. I'm sorry, I know it's a lot to take in."
+21/04/2019,A Knight of the Seven Kingdoms,0.071,0.231,0.698,-0.8779,8.0,2.0,davos,"You are now. Look, I made it through most of my years without ever getting near a fight, but then I survived the Battle of the Bastards. Right outside these walls. If I can live through that, you can live through this. They'll outfit you with weapons at the forge. Right that way."
+21/04/2019,A Knight of the Seven Kingdoms,0.0,0.106,0.894,-0.4195,8.0,2.0,arya stark,"No, I mean, what are you doing up here? You joined the Brotherhood. You went beyond the Wall with Jon. You're here now. Why? When was the last time you fought for anyone but yourself?"
+21/04/2019,A Knight of the Seven Kingdoms,0.0,0.538,0.462,-0.5423,8.0,2.0,gendry baratheon,I'm Robert Baratheon's bastard.
+21/04/2019,A Knight of the Seven Kingdoms,0.171,0.271,0.559,-0.5267,8.0,2.0,tyrion lannister,I-I do. How many battles have we survived between us? Ser Davos Seaworth. Survivor of both the Blackwater and the Battle of the Bastards.
+05/05/2019,The Last of the Starks,0.487,0.0,0.513,0.431,8.0,4.0,gendry baratheon,I can't be. I'm a bastard.
+12/05/2019,The Bells,0.0,0.0,1.0,0.0,8.0,5.0,daenerys targaryen,Jon Snow.
+12/05/2019,The Bells,0.0,0.0,1.0,0.0,8.0,5.0,daenerys targaryen,Jon Snow.
+12/05/2019,The Bells,0.315,0.0,0.685,0.3182,8.0,5.0,daenerys targaryen,He knows the truth about Jon.
+12/05/2019,The Bells,0.0,0.143,0.857,-0.6124,8.0,5.0,daenerys targaryen,"Because you told him. You learned from Sansa. And she learned from Jon, though I begged him not to tell her. As I said, he betrayed me."
+19/05/2019,The Iron Throne,0.0,0.0,1.0,0.0,8.0,6.0,davos,Jon. We should speak with the queen.
+19/05/2019,The Iron Throne,0.0,0.278,0.722,-0.8271,8.0,6.0,arya stark,Jon. She knows who you are. Who you really are. You'll always be a threat to her. And I know a killer when I see one.
+19/05/2019,The Iron Throne,0.0,0.0,1.0,0.0,8.0,6.0,daenerys targaryen,"Be with me. Build the new world with me. This is our reason. It has been from the beginning, since you were a little boy with a bastardo s name and I was a little girl who couldn't count to twenty. We do it together. We break the wheel together."
+19/05/2019,The Iron Throne,0.0,0.0,1.0,0.0,8.0,6.0,sansa stark,Where's Jon?
+19/05/2019,The Iron Throne,0.0,0.19,0.81,-0.7253,8.0,6.0,sansa stark,"If you look outside the walls of your city, you'll find thousands of Northmen who will explain to you why harming Jon Snow is not in your interest."
+19/05/2019,The Iron Throne,0.0,0.19,0.81,-0.7253,8.0,6.0,sansa stark,"If you look outside the walls of your city, you'll find thousands of Northmen who will explain to you why harming Jon Snow is not in your interest."
+19/05/2019,The Iron Throne,0.094,0.0,0.906,0.4019,8.0,6.0,yara greyjoy,"She freed us from a tyrant. Cersei is gone because of her, and Jon Snow put a knife in her heart. Let the Unsullied give him what he deserves."
+19/05/2019,The Iron Throne,0.094,0.0,0.906,0.4019,8.0,6.0,yara greyjoy,"She freed us from a tyrant. Cersei is gone because of her, and Jon Snow put a knife in her heart. Let the Unsullied give him what he deserves."
+19/05/2019,The Iron Throne,0.199,0.158,0.643,0.1774,8.0,6.0,grey worm,We do not need payment. We need justice. Jon Snow cannot go free.
+19/05/2019,The Iron Throne,0.199,0.158,0.643,0.1774,8.0,6.0,grey worm,We do not need payment. We need justice. Jon Snow cannot go free.
+19/05/2019,The Iron Throne,0.129,0.147,0.724,-0.1779,8.0,6.0,tyrion lannister,You're right. And no one's any better for it. But it's not for you to decide. Jon committed his crime here. His fate is for our king to decide. Or our queen.
+19/05/2019,The Iron Throne,0.0,0.441,0.559,-0.7964,8.0,6.0,tyrion lannister,The world will always need a home for bastards and broken men.
