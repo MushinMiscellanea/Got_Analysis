@@ -1,6 +1,10 @@
 # Sentiment Analysis on Game of Thrones Dialogue
 
+<<<<<<< HEAD
 My final project for LIS 4761 Data Mining. I used NLTK abstracted through Orange (python under the hood) to generate sentiment scores for each line of dialogue for the popular T.V. show Game of Thrones. I filtered the results to include only the characters with widespread political appeal. My results map the political climate and overall popularity of each character throughout the shows 8 seasons, approximatly 7 years total.
+=======
+My final project for LIS 4761 Data Mining. I used NLTK abstracted through Orange (python under the hood) to generate sentiment scores for each line of dialogue for the popular T.V. show Game of Thrones. I filtered the results to include only the characters with widepread political appeal. My results map the political climate and overall popularity of each character throughout the shows 8 seasons, approximatly 7 years total.
+>>>>>>> 9a635cdb0583461c57cc5e15be1e61301d2b8ddc
 
 #### This code is terribly undocumented as it served its purpose of being an A project and nothing more. Proceed with Caution.
 
